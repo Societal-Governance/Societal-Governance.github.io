@@ -17,7 +17,8 @@ description: "Societal Governance in the Face of Polycrisis: Exploring Alternati
         <h2 class="member-name">Zlatko Bodrožić</h2>
         <div class="member-meta">
           <p>University of Liverpool, UK (Lead Coordinator)</p>
-          <a href="mailto:Z.Bodrozic@liverpool.ac.uk" class="small-link">Z.Bodrozic@liverpool.ac.uk</a>
+          <a href="mailto:Z.Bodrozic@liverpool.ac.uk"  class="small-link">Z.Bodrozic@liverpool.ac.uk</a>
+          <a href="https://www.liverpool.ac.uk/people/zlatko-bodrozic"  class="small-link">Zlatko Bodrozic Homepage</a>
         </div>
       </div>
     </div>
@@ -35,7 +36,7 @@ description: "Societal Governance in the Face of Polycrisis: Exploring Alternati
         <h2 class="member-name">Pilar Acosta</h2>
         <div class="member-meta">
           <p>Toulouse Business School, France</p>
-          <a href="mailto:p.acosta@tbs-education.fr" class="small-link">p.acosta@tbs-education.fr</a>
+          <a href="mailto:p.acosta@tbs-education.fr"  class="small-link">p.acosta@tbs-education.fr</a>
         </div>
       </div>
     </div>
