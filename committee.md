@@ -17,7 +17,7 @@ description: "Societal Governance in the Face of Polycrisis: Exploring Alternati
         <h2 class="member-name">Zlatko Bodrožić</h2>
         <div class="member-meta">
           <p>University of Liverpool, UK (Lead Coordinator)</p>
-          <a href="mailto:Z.Bodrozic@liverpool.ac.uk">Z.Bodrozic@liverpool.ac.uk</a>
+          <a href="mailto:Z.Bodrozic@liverpool.ac.uk" class="small-link">Z.Bodrozic@liverpool.ac.uk</a>
         </div>
       </div>
     </div>
@@ -35,7 +35,7 @@ description: "Societal Governance in the Face of Polycrisis: Exploring Alternati
         <h2 class="member-name">Pilar Acosta</h2>
         <div class="member-meta">
           <p>Toulouse Business School, France</p>
-          <a href="mailto:p.acosta@tbs-education.fr">p.acosta@tbs-education.fr</a>
+          <a href="mailto:p.acosta@tbs-education.fr" class="small-link">p.acosta@tbs-education.fr</a>
         </div>
       </div>
     </div>
@@ -53,12 +53,12 @@ description: "Societal Governance in the Face of Polycrisis: Exploring Alternati
         <h2 class="member-name">Paul S. Adler</h2>
         <div class="member-meta">
           <p>University of Southern California, USA</p>
-          <a href="mailto:padler@marshall.usc.edu">padler@marshall.usc.edu</a>
+          <a href="mailto:padler@marshall.usc.edu"class="small-link">padler@marshall.usc.edu</a>
         </div>
       </div>
     </div>
     <div class="member-intro">
-      <p>Paul Adler is currently the Harold Quinton Chair Emeritus in Business Policy and Professor Emeritus of Management and Organization at the Marshall School of Business, University of Southern California. His research and teaching focus on organization theory and comparative political economy. He has published widely in academic journals, and has edited or co-edited several volumes, the more recent being <strong>The Firm as a Collaborative Community: Reconstructing Trust in the Knowledge Economy</strong> (2006), <strong>The Oxford Handbook of Sociology and Organization Studies: Classical Foundations</strong> (2009), and <strong>The Oxford Handbook of Sociology, Social Theory and Organization Studies: Contemporary Currents</strong> (2015). He co-authored <strong>Healing Together: The Labor-Management Partnership at Kaiser Permanente</strong> (2009), and most recently published <strong>The 99% Economy: How Democratic Socialism can overcome the Crises of Capitalism</strong> (2019).</p>
+      <p>Paul Adler is currently the Harold Quinton Chair Emeritus in Business Policy and Professor Emeritus of Management and Organization at the Marshall School of Business, University of Southern California. His research and teaching focus on organization theory and comparative political economy. He has published widely in academic journals, and has edited or co-edited several volumes, the more recent being The Firm as a Collaborative Community: Reconstructing Trust in the Knowledge Economy (2006), The Oxford Handbook of Sociology and Organization Studies: Classical Foundations (2009), and The Oxford Handbook of Sociology, Social Theory and Organization Studies: Contemporary Currents (2015). He co-authored Healing Together: The Labor-Management Partnership at Kaiser Permanente (2009), and most recently published The 99% Economy: How Democratic Socialism can overcome the Crises of Capitalism (2019).</p>
     </div>
   </div>
 
@@ -71,16 +71,14 @@ description: "Societal Governance in the Face of Polycrisis: Exploring Alternati
         <h2 class="member-name">Gerald F. Davis</h2>
         <div class="member-meta">
           <p>University of Michigan, USA</p>
-          <a href="mailto:gfdavis@umich.edu">gfdavis@umich.edu</a>
+          <a href="mailto:gfdavis@umich.edu"class="small-link">gfdavis@umich.edu</a>
+          <a href="https://sites.google.com/a/umich.edu/jerrydavis/home"class="small-link">Jerry Davis Homepage</a>
         </div>
       </div>
     </div>
     <div class="member-intro">
       <p>Jerry Davis received his PhD from Stanford and taught at Northwestern and Columbia before moving to the University of Michigan, where he is Gilbert and Ruth Whitaker Professor of Business Administration and Professor of Sociology. He has published widely in management, sociology, and finance. His books include Social Movements and Organization Theory (2005); Organizations and Organizing (2007); Managed by the Markets: How Finance Reshaped America (2009); Changing your Company from the Inside Out: A Guide for Social Intrapreneurs (2015); The Vanishing American Corporation (2016); and Taming Corporate Power in the 21st Century (2022).</p>
       <p>Davis’s research is broadly concerned with the effects of finance on society, changes in the corporate economy, and new forms of organization. Recent writings examine how ideas about corporate social responsibility have evolved to meet changes in the structures and geographic footprint of multinational corporations; whether "shareholder capitalism" is still a viable model for economic development; how income inequality in an economy is related to corporate size and structure; why theories about organizations do (or do not) progress; how architecture shapes social networks and innovation in organizations; why stock markets spread to some countries and not others; and whether there exist viable organizational alternatives to shareholder-owned corporations in the United States.</p>
-      <p>You can find out more at <a href="https://sites.google.com/a/umich.edu/jerrydavis/home" target="_blank" rel="noopener noreferrer">Jerry Davis Homepage
-  </a>
-</p>
 </div>
 </div>
 
@@ -93,7 +91,7 @@ description: "Societal Governance in the Face of Polycrisis: Exploring Alternati
         <h2 class="member-name">Alfred Tat-Kei Ho</h2>
         <div class="member-meta">
           <p>City University of Hong Kong, Institute of Global Governance and Innovation for a Shared Future, Hong Kong</p>
-          <a href="mailto:ho.tkalfred@cityu.edu.hk">ho.tkalfred@cityu.edu.hk</a>
+          <a href="mailto:ho.tkalfred@cityu.edu.hk"class="small-link">ho.tkalfred@cityu.edu.hk</a>
         </div>
       </div>
     </div>
@@ -111,7 +109,7 @@ description: "Societal Governance in the Face of Polycrisis: Exploring Alternati
         <h2 class="member-name">Nicole Ning Liu</h2>
         <div class="member-meta">
           <p>City University of Hong Kong, Department of Public and International Affairs, Hong Kong</p>
-          <a href="mailto:ning.liu@cityu.edu.hk">ning.liu@cityu.edu.hk</a>
+          <a href="mailto:ning.liu@cityu.edu.hk"class="small-link">ning.liu@cityu.edu.hk</a>
         </div>
       </div>
     </div>
@@ -139,7 +137,9 @@ For inquiries about the seminar series or the SWG, please feel free to contact a
 .member-section * {
   box-sizing: border-box;
 }
-
+.small-link {
+  font-size: 14px;
+}
 .member-section {
   width: 100%;
   max-width: none;
@@ -196,24 +196,25 @@ For inquiries about the seminar series or the SWG, please feel free to contact a
 }
 
 .member-name {
-  margin: 0 0 10px;
+  margin: 0 0 6px;
   font-size: 20px;
   font-weight: 700;
-  line-height: 1.4;
+  line-height: 1.25;
   color: #1f2a44;
 }
 
 .member-meta p {
-  margin: 0 0 10px;
+  margin: 0 0 4px;
   font-size: 15px;
-  line-height: 1.7;
+  line-height: 1.35;
   color: #4a5568;
   word-break: break-word;
 }
 
 .member-meta a {
-  display: inline-block;
-  margin: 0 0 10px;
+  display: block;
+  margin: 0 0 4px;
+  line-height: 1.35;
   color: #2563eb;
   text-decoration: none;
   word-break: break-word;
