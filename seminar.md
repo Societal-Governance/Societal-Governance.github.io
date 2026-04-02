@@ -22,13 +22,21 @@ In 2026, we launched a monthly online seminar series on societal governance to s
 </ul>
 
 
+## Seminar Format
+
+> Seminars are held on the first Friday of each month and last one hour. They take place at 13:00 UK / 08:00 US Eastern / 20:00 Hong Kong (21:00 Hong Kong in winter). Guest speakers and chairing rotate across North America, Europe, and Asia.
+
+
 ## Schedule
 
 <div class="seminar-card">
   <details id="seminar-1" open>
     <summary class="seminar-summary">
       <span>Seminar Series #1</span>
+      <span class="seminar-right">
+      <span class="seminar-meta">Jerry Davis，May 8, 2026</span>
       <span class="arrow">▶</span>
+    </span>
     </summary>
     <div class="seminar-content">
       <div class="seminar-top">
@@ -93,10 +101,13 @@ In 2026, we launched a monthly online seminar series on societal governance to s
 
 <div class="seminar-card">
   <details id="seminar-2">
-    <summary class="seminar-summary">
-      <span>Seminar Series #2</span>
+  <summary class="seminar-summary">
+    <span>Seminar Series #2</span>
+    <span class="seminar-right">
+      <span class="seminar-meta">David Soskice，June 5, 2026</span>
       <span class="arrow">▶</span>
-    </summary>
+    </span>
+  </summary>
     <div class="seminar-content">
       <div class="seminar-top">
         <div class="seminar-text">
@@ -119,6 +130,7 @@ In 2026, we launched a monthly online seminar series on societal governance to s
     </div>
   </details>
 </div>
+
 
 
 
@@ -178,9 +190,32 @@ window.addEventListener("load", function () {
   align-items: center;
 }
 
+/* 去掉 details/summary 默认小三角 */
+.seminar-summary::-webkit-details-marker {
+  display: none;
+}
+
+.seminar-right {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.seminar-meta {
+  font-size: 18px;
+  font-weight: 400;
+  white-space: nowrap;
+}
+
 .arrow {
+  display: inline-block;
   transition: transform 0.3s ease;
   font-size: 18px;
+}
+
+/* 只有箭头旋转 */
+details[open] .arrow {
+  transform: rotate(90deg);
 }
 
 .seminar-content {
