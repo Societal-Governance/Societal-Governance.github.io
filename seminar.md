@@ -32,6 +32,7 @@ In 2026, we launched a monthly online seminar series on societal governance to s
 <div class="seminar-card">
   <details id="seminar-1" open>
     <summary class="seminar-summary">
+      <span>Seminar Series # 1</span>
       <span>Comparative organization theory and societal governance</span>
       <span class="seminar-right">
       <span class="seminar-meta">Jerry Davis，May 8, 2026</span>
@@ -102,7 +103,8 @@ In 2026, we launched a monthly online seminar series on societal governance to s
 <div class="seminar-card">
   <details id="seminar-2">
   <summary class="seminar-summary">
-    <span>Societal governance in the face of grand challenges: Perspectives from the Global North, South, East, and West</span>
+    <span>Seminar Series # 2</span>
+    <span>Seminar Title</span>
     <span class="seminar-right">
       <span class="seminar-meta">David Soskice，June 5, 2026</span>
       <span class="arrow">▶</span>
