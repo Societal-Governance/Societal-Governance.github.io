@@ -107,7 +107,7 @@ In 2026, we launched a monthly online seminar series on societal governance to s
   <summary class="seminar-summary">
     <span class="seminar-left">
       <span class="seminar-series">Seminar Series #2</span>
-      <span class="seminar-title">Add Seminar Title</span>
+      <span class="seminar-title"></span>
     </span>
     <span class="seminar-right">
       <span class="seminar-meta">David Soskice，June 5, 2026</span>
@@ -213,7 +213,7 @@ summary::-webkit-details-marker {
 .seminar-series {
   font-size: 18px;
   font-weight: 500;
-  color: #666;
+  color: #000;
   line-height: 1.4;
 }
 
@@ -235,7 +235,7 @@ summary::-webkit-details-marker {
 .seminar-meta {
   font-size: 18px;
   font-weight: 400;
-  color: #666;
+  color: #000;
 }
 
 .arrow {
