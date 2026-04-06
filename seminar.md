@@ -44,7 +44,6 @@ In 2026, we launched a monthly online seminar series on societal governance to s
     <div class="seminar-content">
       <div class="seminar-top">
         <div class="seminar-text">
-          <!--<p><strong>Title:</strong> Comparative organization theory and societal governance</p>-->
           <p><strong>Speaker:</strong> 
             <a href="https://michiganross.umich.edu/faculty-research/faculty/jerry-davis">Jerry Davis</a>
           </p>
@@ -264,6 +263,7 @@ details[open] .arrow {
 .seminar-text {
   flex: 1;
   min-width: 0;
+  color: #000;
 }
 
 .seminar-photo {
