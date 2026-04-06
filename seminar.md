@@ -116,7 +116,6 @@ In 2026, we launched a monthly online seminar series on societal governance to s
     <div class="seminar-content">
       <div class="seminar-top">
         <div class="seminar-text">
-          <!--<p><strong>Title:</strong></p>-->
           <p><strong>Speaker:</strong> 
             <a href=""></a>
           </p>
@@ -295,6 +294,7 @@ details[open] .arrow {
 
 .seminar-abstract {
   width: 100%;
+  color: #000;
 }
 
 .seminar-abstract h3 {
