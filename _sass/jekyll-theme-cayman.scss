@@ -124,13 +124,35 @@ a {
   }
 }
 
+
 .page-header {
+  position: relative;
   color: $header-heading-color;
   text-align: center;
   background-image: url('../images/background.jpg');
-  background-repeat:no-repeat;
-  background-size:cover;
-  background-position:center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  overflow: hidden;
+
+  // 背景遮罩，避免文字和图片融为一体
+  &::before {
+    content: "";
+    position: absolute;
+    inset: 0;
+    background: linear-gradient(
+      to bottom,
+      rgba(0, 0, 0, 0.35),
+      rgba(0, 0, 0, 0.5)
+    );
+    z-index: 0;
+  }
+
+  // 确保标题内容在遮罩上层
+  > * {
+    position: relative;
+    z-index: 1;
+  }
 
   @include large {
     padding: 9rem 4rem;
@@ -146,48 +168,67 @@ a {
 }
 
 .project-name {
+  display: inline-block;
   margin-top: 0;
-  margin-bottom: 0.1rem;
-  font-weight: 800;
+  margin-bottom: 0.75rem;
+  padding: 0.4rem 1rem;
+  font-weight: 900;
   line-height: 1.15;
   color: #fff;
+  letter-spacing: 0.02em;
+  border-radius: 0.75rem;
 
-  // 描边，让文字和背景分离
-  -webkit-text-stroke: 1px rgba(0, 0, 0, 0.45);
+  // 半透明底板，让标题从背景里“浮出来”
+  background: rgba(0, 0, 0, 0.22);
+  backdrop-filter: blur(2px);
+  -webkit-backdrop-filter: blur(2px);
 
-  // 多层阴影，增强立体感和可读性
+  // 更明显的描边
+  -webkit-text-stroke: 1.2px rgba(0, 0, 0, 0.65);
+
+  // 更强层次感
   text-shadow:
-    0 2px 4px rgba(0, 0, 0, 0.45),
-    0 4px 10px rgba(0, 0, 0, 0.35),
-    0 0 2px rgba(0, 0, 0, 0.5);
+    0 2px 4px rgba(0, 0, 0, 0.5),
+    0 6px 14px rgba(0, 0, 0, 0.45),
+    0 0 2px rgba(0, 0, 0, 0.7);
+
+  box-shadow: 0 6px 18px rgba(0, 0, 0, 0.18);
 
   @include large {
-    font-size: 3.25rem;
+    font-size: 3.6rem;
   }
 
   @include medium {
-    font-size: 2.25rem;
+    font-size: 2.5rem;
   }
 
   @include small {
-    font-size: 1.75rem;
+    font-size: 1.9rem;
+    padding: 0.35rem 0.8rem;
   }
 }
 
 .project-tagline {
+  display: inline-block;
   margin-bottom: 2rem;
+  padding: 0.35rem 0.9rem;
   font-weight: 700;
   line-height: 1.5;
   color: #fff;
+  border-radius: 0.6rem;
 
-  -webkit-text-stroke: 0.6px rgba(0, 0, 0, 0.35);
+  background: rgba(0, 0, 0, 0.16);
+  backdrop-filter: blur(1.5px);
+  -webkit-backdrop-filter: blur(1.5px);
+
+  -webkit-text-stroke: 0.7px rgba(0, 0, 0, 0.45);
 
   text-shadow:
-    0 1px 3px rgba(0, 0, 0, 0.45),
-    0 3px 8px rgba(0, 0, 0, 0.3);
+    0 1px 3px rgba(0, 0, 0, 0.5),
+    0 4px 10px rgba(0, 0, 0, 0.35);
 
   @include large {
-    font-size: 2rem;
+    font-size: 1.5rem;
   }
 
   @include medium {
