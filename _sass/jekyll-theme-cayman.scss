@@ -128,12 +128,11 @@ a {
 .page-header {
   color: $header-heading-color;
   text-align: center;
-  //background-color: $header-bg-color;
   background-image: url('../images/background.jpg');
-  background-repeat:no-repeat;
-  background-size:cover;
-  background-position:center;
-  
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+
   @include large {
     padding: 10rem 4rem;
   }
@@ -150,6 +149,18 @@ a {
 .project-name {
   margin-top: 0;
   margin-bottom: 0.1rem;
+  color: #fff;
+
+  // 描边
+  -webkit-text-stroke: 1.5px rgba(0, 0, 0, 0.7);
+
+  // 阴影 + 兼容性描边
+  text-shadow:
+    1px 1px 0 rgba(0, 0, 0, 0.7),
+   -1px 1px 0 rgba(0, 0, 0, 0.7),
+    1px -1px 0 rgba(0, 0, 0, 0.7),
+   -1px -1px 0 rgba(0, 0, 0, 0.7),
+    0 4px 10px rgba(0, 0, 0, 0.45);
 
   @include large {
     font-size: 3.25rem;
@@ -161,13 +172,25 @@ a {
 
   @include small {
     font-size: 1.75rem;
+    -webkit-text-stroke: 1px rgba(0, 0, 0, 0.7);
   }
 }
 
 .project-tagline {
   margin-bottom: 2rem;
   font-weight: bold;
-  
+  color: #fff;
+
+  // 描边
+  -webkit-text-stroke: 1px rgba(0, 0, 0, 0.65);
+
+  // 阴影 + 兼容性描边
+  text-shadow:
+    1px 1px 0 rgba(0, 0, 0, 0.65),
+   -1px 1px 0 rgba(0, 0, 0, 0.65),
+    1px -1px 0 rgba(0, 0, 0, 0.65),
+   -1px -1px 0 rgba(0, 0, 0, 0.65),
+    0 3px 8px rgba(0, 0, 0, 0.4);
 
   @include large {
     font-size: 2rem;
@@ -179,6 +202,7 @@ a {
 
   @include small {
     font-size: 1rem;
+    -webkit-text-stroke: 0.8px rgba(0, 0, 0, 0.65);
   }
 }
 
