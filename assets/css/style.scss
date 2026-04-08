@@ -2,3 +2,15 @@
 ---
 
 @import 'jekyll-theme-cayman';
+
+.page-header {
+  background: red !important;
+}
+
+.page-header .project-name {
+  color: yellow !important;
+  font-size: 60px !important;
+}
+
+---
+---
