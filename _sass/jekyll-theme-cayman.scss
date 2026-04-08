@@ -151,8 +151,6 @@ a {
   margin-bottom: 0.1rem;
   color: #fff;
 
-  // 描边
-  -webkit-text-stroke: 1px rgba(0, 0, 0, 0.45);
 
   // 阴影 + 兼容性描边
   text-shadow:
@@ -172,7 +170,6 @@ a {
 
   @include small {
     font-size: 1.75rem;
-    -webkit-text-stroke: 0.7px rgba(0, 0, 0, 0.45);
     
   }
 }
@@ -182,8 +179,6 @@ a {
   font-weight: bold;
   color: #fff;
 
-  // 描边
-  -webkit-text-stroke: 0.8px rgba(0, 0, 0, 0.4);
 
   // 阴影 + 兼容性描边
   text-shadow:
@@ -203,7 +198,6 @@ a {
 
   @include small {
     font-size: 1rem;
-    -webkit-text-stroke: 0.6px rgba(0, 0, 0, 0.4);
   }
 }
 
