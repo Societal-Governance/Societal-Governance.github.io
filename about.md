@@ -22,7 +22,7 @@ description: "Societal Governance in the Face of Polycrisis: Exploring Alternati
     <li>
       George, G., Howard-Grenville, J., Joshi, A., &amp; Tihanyi, L. (2016).
       Understanding and tackling societal grand challenges through management research.
-      <em>Academy of Management Journal, 59</em>(6), 1880–1895.
+      <em>Academy of Management Journal</em>, 59(6), 1880–1895.
     </li>
     <li>
       Sachs, J. D., Lafortune, G., Fuller, G., &amp; Iablonovski, G. (2025).
@@ -33,7 +33,7 @@ description: "Societal Governance in the Face of Polycrisis: Exploring Alternati
       </a>
     </li>
     <li>
-      United Nations. (2024).
+      United Nations (2024).
       <em>UN global risk report 2024</em>.
       <a href="https://unglobalriskreport.org/UNHQ-GlobalRiskReport-WEB-FIN.pdf" target="_blank" rel="noopener noreferrer">
         https://unglobalriskreport.org/UNHQ-GlobalRiskReport-WEB-FIN.pdf
