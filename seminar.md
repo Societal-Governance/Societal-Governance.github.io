@@ -139,16 +139,16 @@ In 2026, we launched a monthly online seminar series on societal governance to s
 
 <div class="seminar-card">
   <details id="seminar-3">
-    <summary class="seminar-summary">
+  <summary class="seminar-summary">
     <span class="seminar-left">
       <span class="seminar-series">Seminar Series #3</span>
       <span class="seminar-title"></span>
     </span>
-      <span class="seminar-right">
+    <span class="seminar-right">
       <span class="seminar-meta">ZHU Xufeng</span>
       <span class="arrow">▶</span>
     </span>
-    </summary>
+  </summary>
     <div class="seminar-content">
       <div class="seminar-top">
         <div class="seminar-text">
@@ -194,7 +194,6 @@ In 2026, we launched a monthly online seminar series on societal governance to s
 
 
 
-/* seminar series */
 
 <script>
 window.addEventListener("load", function () {
