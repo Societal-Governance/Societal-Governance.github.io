@@ -100,7 +100,6 @@ In 2026, we launched a monthly online seminar series on societal governance to s
 </div>
 
 
-
 <div class="seminar-card">
   <details id="seminar-2">
   <summary class="seminar-summary">
@@ -109,7 +108,7 @@ In 2026, we launched a monthly online seminar series on societal governance to s
       <span class="seminar-title"></span>
     </span>
     <span class="seminar-right">
-      <span class="seminar-meta">David Soskice，June 5, 2026</span>
+      <span class="seminar-meta">David Soskice, June 5 2026</span>
       <span class="arrow">▶</span>
     </span>
   </summary>
@@ -117,13 +116,13 @@ In 2026, we launched a monthly online seminar series on societal governance to s
       <div class="seminar-top">
         <div class="seminar-text">
           <p><strong>Speaker:</strong> 
-            David Soskice<!--<a href="">David Soskice</a>-->
+            David Soskice<!--<a href="https://www.sppm.tsinghua.edu.cn/english/info/1067/1962.htm"></a>-->
           </p>
-          <p><strong>Affiliation:</strong></p>
-          <p><strong>Date & Time:</strong>
-          </p>
+          <p><strong>Affiliation:</strong> </p>
+          <p><strong>Date & Time:</strong></p>
         </div>
         <div class="seminar-photo">
+          <!--<img src="assets/images/Xufeng.png" alt="Xufeng Zhu">-->
         </div>
       </div>
       <hr class="seminar-divider">
@@ -137,6 +136,7 @@ In 2026, we launched a monthly online seminar series on societal governance to s
 
 
 
+
 <div class="seminar-card">
   <details id="seminar-3">
   <summary class="seminar-summary">
@@ -145,7 +145,7 @@ In 2026, we launched a monthly online seminar series on societal governance to s
       <span class="seminar-title"></span>
     </span>
     <span class="seminar-right">
-      <span class="seminar-meta">Xufeng Zhu</span>
+      <span class="seminar-meta">Xufeng Zhu, July 3 2026</span>
       <span class="arrow">▶</span>
     </span>
   </summary>
@@ -170,6 +170,75 @@ In 2026, we launched a monthly online seminar series on societal governance to s
     </div>
   </details>
 </div>
+
+<div class="seminar-card">
+  <details id="seminar-4">
+  <summary class="seminar-summary">
+    <span class="seminar-left">
+      <span class="seminar-series">Seminar Series #4</span>
+      <span class="seminar-title"></span>
+    </span>
+    <span class="seminar-right">
+      <span class="seminar-meta">Ruth Aguilera, September 4 2026</span>
+      <span class="arrow">▶</span>
+    </span>
+  </summary>
+    <div class="seminar-content">
+      <div class="seminar-top">
+        <div class="seminar-text">
+          <p><strong>Speaker:</strong> 
+            Ruth Aguilera<!--<a href="https://www.sppm.tsinghua.edu.cn/english/info/1067/1962.htm"></a>-->
+          </p>
+          <p><strong>Affiliation:</strong> </p>
+          <p><strong>Date & Time:</strong></p>
+        </div>
+        <div class="seminar-photo">
+          <!--<img src="assets/images/Xufeng.png" alt="Xufeng Zhu">-->
+        </div>
+      </div>
+      <hr class="seminar-divider">
+      <div class="seminar-abstract">
+        <h3>Abstract</h3>
+        <p></p>
+      </div>
+    </div>
+  </details>
+</div>
+
+<div class="seminar-card">
+  <details id="seminar-5">
+  <summary class="seminar-summary">
+    <span class="seminar-left">
+      <span class="seminar-series">Seminar Series #5</span>
+      <span class="seminar-title"></span>
+    </span>
+    <span class="seminar-right">
+      <span class="seminar-meta">Sigrid Quack, October 2 2026</span>
+      <span class="arrow">▶</span>
+    </span>
+  </summary>
+    <div class="seminar-content">
+      <div class="seminar-top">
+        <div class="seminar-text">
+          <p><strong>Speaker:</strong> 
+            Sigrid Quack<!--<a href="https://www.sppm.tsinghua.edu.cn/english/info/1067/1962.htm"></a>-->
+          </p>
+          <p><strong>Affiliation:</strong> </p>
+          <p><strong>Date & Time:</strong></p>
+        </div>
+        <div class="seminar-photo">
+          <!--<img src="assets/images/Xufeng.png" alt="Xufeng Zhu">-->
+        </div>
+      </div>
+      <hr class="seminar-divider">
+      <div class="seminar-abstract">
+        <h3>Abstract</h3>
+        <p></p>
+      </div>
+    </div>
+  </details>
+</div>
+
 
 
 
