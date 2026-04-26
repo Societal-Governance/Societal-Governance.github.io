@@ -105,7 +105,7 @@ In 2026, we launched a monthly online seminar series on societal governance to s
   <summary class="seminar-summary">
     <span class="seminar-left">
       <span class="seminar-series">Seminar Series #2</span>
-      <span class="seminar-title"></span>
+      <span class="seminar-title">The Advanced European States in the Polycrisis: External Challenges of Autocracy and Technology; Internal Challenges of Polarisation, Populism and Governance</span>
     </span>
     <span class="seminar-right">
       <span class="seminar-meta">David Soskice, June 5th 2026</span>
@@ -119,7 +119,11 @@ In 2026, we launched a monthly online seminar series on societal governance to s
             David Soskice<!--<a href="https://www.sppm.tsinghua.edu.cn/english/info/1067/1962.htm"></a>-->
           </p>
           <p><strong>Affiliation:</strong> </p>
-          <p><strong>Date & Time:</strong></p>
+          <p><strong>Date & Time:</strong><br>
+            June 5th, 2026, 8:00am-9:00am, ET<br>
+            June 5th, 2026, 1:00pm-2:00pm, UK<br>
+            June 5th, 2026, 8:00pm-9:00pm, China
+          </p>
         </div>
         <div class="seminar-photo">
           <!--<img src="assets/images/Xufeng.png" alt="Xufeng Zhu">-->
@@ -128,7 +132,9 @@ In 2026, we launched a monthly online seminar series on societal governance to s
       <hr class="seminar-divider">
       <div class="seminar-abstract">
         <h3>Abstract</h3>
-        <p></p>
+        <p>The intense phase of the digital technological revolution built up through the 2010s and which we are very much still in, dominated by the US and now by China, and echoed in the advanced economies of Europe, has deeply polarised all these very differently organised societies; apart from China (?), political entrepreneurs have leveraged polarisation into radical right parties in the US and most of advanced Europe. In advanced Europe this has weakened national governments in terms of their capacity to make credible long-term agreements with other governments and/or between and within political parties. In turn the EU only functions with great difficulty, and can seldom push the radical policies needed to meet (as well as rapidly respond to) the external challenges of autocracy and leading-edge technology. States are further polarised between the high value-added and innovation-oriented (Superstar metro city) Clusters in which most important activities take place, and the ‘Places that Don’t Matter’; but the governance of Clusters generally plays no part in national politics.  In addition contemporary corporate governance systems operate very differently across Clusters, even between Denmark, Sweden, Germany, the Netherlands and Switzerland, very sharply between the UK and France; even more so the role of unions, key in the Nordics and Germanic Clusters, barely seriously in France and the UK; and in both areas the US. So where to go from here? We look seriously at Draghi’s 2-speed Europe, at his proposal for borrowing an annual amount of €1tn to finance radical construction of innovation systems, and we argue the high-powered incentive structures which it makes possible in reshaping the complex governance structures of the advanced European systems, while retaining the many core elements which cannot be changed.</p>
+      <h3>Short Bio</h3>
+      <p>Taught econometrics and macroeconomics at Oxford 1967 to 1990, with many visiting spells teaching in the Berkeley Economics department. Research Director, Political Economy dept, WZB, 1990 to 2001. Research Prof Duke Pol Sci dept and Nuffield College, Oxford 2001 to 2010 (split appointment). 2001 to 2021, LSE School Professor for Political Science and Economics.   Visiting professor Harvard (Govt), Yale (Pol Sci), Cornell (IR), St Anna Pisa (Econ). Fellow of the British Academy, Fellow of the American Academy of Arts and Sciences; President of European Political Science Association (2011-3). Chair, Oxf Univ Labour Club 1963; Adviser to Michael Meacher, Labour Shadow Minister of Employment; member of Blair Policy Unit 1998-9, responsibilities for HE.</p>
       </div>
     </div>
   </details>
