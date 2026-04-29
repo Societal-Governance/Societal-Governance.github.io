@@ -12,6 +12,7 @@ description: "Societal Governance in the Face of Polycrisis: Exploring Alternati
 </div>
 
 <style>
+/* figure format */
 .logo-row {
   display: flex;
   flex-wrap: wrap;
@@ -19,8 +20,8 @@ description: "Societal Governance in the Face of Polycrisis: Exploring Alternati
   align-items: center;
   gap: 1rem;
 
-  width: 100vw;              /* 撑满整个屏幕 */
-  margin-left: calc(-50vw + 50%);  /* 关键：突破居中容器 */
+  width: 100vw;
+  margin-left: calc(-50vw + 50%);
   padding: 0 2rem;
 }
 
@@ -30,6 +31,7 @@ description: "Societal Governance in the Face of Polycrisis: Exploring Alternati
   height: auto;
 }
 
+/* logo format */
 .icon {
   width: 50px;
   height: auto;
@@ -40,7 +42,15 @@ description: "Societal Governance in the Face of Polycrisis: Exploring Alternati
   height: 75px;
   transition: transform 0.2s ease;
 }
+.icon_register{
+  width: 80px;
+  height: auto;
+  transition: transform 0.2s ease;
+}
 
+.icon_egos:hover {
+  transform: scale(1.2);  /* 鼠标悬停放大 */
+}
 .icon:hover {
   transform: scale(1.2);  /* 鼠标悬停放大 */
 }
@@ -49,11 +59,38 @@ description: "Societal Governance in the Face of Polycrisis: Exploring Alternati
   display: flex;
   gap: 40px;
   align-items: center;
+  justify-content: center;
 }
-
 </style>
 
 
+
+<h3 align="center">Register to Get the Latest Updates: <a href="https://forms.cloud.microsoft/r/s1XnFWi41B" target="_blank" rel="noopener noreferrer">
+    Registration
+  </a>
+</h3>
+
+
+<body>
+    <div class="icon-container">
+        <!-- Register -->
+        <a href="https://forms.cloud.microsoft/r/s1XnFWi41B" target="_blank">
+            <img src="assets/images/register.png" class="icon_register" alt="register">
+        </a>
+        <!-- YouTube 
+        <a href="https://youtube.com" target="_blank">
+            <img src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" class="icon" alt="YouTube">
+        </a> -->
+        <!-- SWGs -->
+        <a href="https://www.egos.org/SWGs/Preview_02" target="_blank">
+            <img src="assets/images/egos_logo.png" class="icon_egos" alt="SWGs">
+        </a>
+        <!-- LinkedIn -->
+        <a href="https://www.linkedin.com/company/egos-swg-societal-governance/?viewAsMember=true" target="_blank">
+            <img src="https://cdn-icons-png.flaticon.com/512/145/145807.png" class="icon" alt="LinkedIn">
+        </a>
+    </div>
+</body>
 
 
 ## Purpose
@@ -65,40 +102,13 @@ description: "Societal Governance in the Face of Polycrisis: Exploring Alternati
 > We envision an international and multidisciplinary learning process that engages SWG members with (1) disciplines such as management and organization studies, public management, public policy, political science, and comparative social sciences; (2) perspectives from Asia, Europe, North America, as well as Africa and Latin America; and (3) social movements and organizations at the forefront of addressing the polycrisis.
 
 
+<!--
 ## Get the Latest Updates
  
 > If you would like to receive updates about our upcoming seminars, conferences and other activities, please fill out the registration form here: <a href="https://forms.cloud.microsoft/r/s1XnFWi41B" target="_blank" rel="noopener noreferrer">Registration</a>
 
+-->
 
 
 
-
-
-
-
-
-
-
-<h2 align="center">Register to Get the Latest Updates<h2>
-
-<body>
-    <div class="icon-container">
-        <!-- X -->
-        <a href="https://twitter.com" target="_blank">
-            <img src="https://cdn-icons-png.flaticon.com/512/733/733579.png" class="icon" alt="X">
-        </a>
-        <!-- YouTube -->
-        <a href="https://youtube.com" target="_blank">
-            <img src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" class="icon" alt="YouTube">
-        </a>
-        <!-- SWGs -->
-        <a href="https://www.egos.org/SWGs/Preview_02" target="_blank">
-            <img src="assets/images/egos_logo.png" class="icon_egos" alt="SWGs">
-        </a>
-        <!-- LinkedIn -->
-        <a href="https://www.linkedin.com/company/egos-swg-societal-governance/?viewAsMember=true" target="_blank">
-            <img src="https://cdn-icons-png.flaticon.com/512/145/145807.png" class="icon" alt="LinkedIn">
-        </a>
-    </div>
-</body>
 
