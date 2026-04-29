@@ -48,11 +48,14 @@ description: "Societal Governance in the Face of Polycrisis: Exploring Alternati
   transition: transform 0.2s ease;
 }
 
-.icon_egos:hover {
-  transform: scale(1.2);  /* 鼠标悬停放大 */
-}
 .icon:hover {
   transform: scale(1.2);  /* 鼠标悬停放大 */
+}
+.icon_egos:hover {
+  transform: scale(1.2);
+}
+.icon_register:hover {
+  transform: scale(1.2);
 }
 
 .icon-container {
