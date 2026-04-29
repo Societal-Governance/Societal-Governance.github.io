@@ -29,10 +29,28 @@ description: "Societal Governance in the Face of Polycrisis: Exploring Alternati
   max-width: 100%;
   height: auto;
 }
+
+.icon {
+  width: 50px;
+  height: auto;
+  transition: transform 0.2s ease;
+}
+.icon_egos{
+  width: 75px;
+  height: 75px;
+  transition: transform 0.2s ease;
+}
+
+.icon:hover {
+  transform: scale(1.2);  /* 鼠标悬停放大 */
+}
+
 .icon-container {
-            display: flex;
-            gap: 60px; /* 图标之间的间距（可以自行调整） */
-        }
+  display: flex;
+  gap: 40px;
+  align-items: center;
+}
+
 </style>
 
 
@@ -73,15 +91,14 @@ description: "Societal Governance in the Face of Polycrisis: Exploring Alternati
         <a href="https://youtube.com" target="_blank">
             <img src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" class="icon" alt="YouTube">
         </a>
-        <!-- WeChat -->
-        <a href="https://weixin.qq.com" target="_blank">
-            <img src="https://cdn-icons-png.flaticon.com/512/733/733585.png" class="icon" alt="WeChat">
+        <!-- SWGs -->
+        <a href="https://www.egos.org/SWGs/Preview_02" target="_blank">
+            <img src="assets/images/egos_logo.png" class="icon_egos" alt="SWGs">
         </a>
         <!-- LinkedIn -->
-        <a href="https://linkedin.com" target="_blank">
+        <a href="https://www.linkedin.com/company/egos-swg-societal-governance/?viewAsMember=true" target="_blank">
             <img src="https://cdn-icons-png.flaticon.com/512/145/145807.png" class="icon" alt="LinkedIn">
         </a>
     </div>
-
 </body>
-</html>
+
