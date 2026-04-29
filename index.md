@@ -31,6 +31,9 @@ description: "Societal Governance in the Face of Polycrisis: Exploring Alternati
 }
 </style>
 
+
+
+
 ## Purpose
  
 > The purpose of our Standing Working Group (SWG) is to equip our fields with the conceptual and methodological foundations for studying societal governance from an international and comparative perspective. Achieving this will require broadening our intellectual resources. 
@@ -44,7 +47,6 @@ description: "Societal Governance in the Face of Polycrisis: Exploring Alternati
  
 > If you would like to receive updates about our upcoming seminars, conferences and other activities, please fill out the registration form here: <a href="https://forms.cloud.microsoft/r/s1XnFWi41B" target="_blank" rel="noopener noreferrer">Registration</a>
 
-<!--For more information, please visit egos: [https://www.egos.org/home](https://www.egos.org/home)-->
 
 
 
@@ -53,3 +55,57 @@ description: "Societal Governance in the Face of Polycrisis: Exploring Alternati
 
 
 
+
+
+<h2 align="center">Register to Get the Latest Updates<h2>
+
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <title>社交图标跳转</title>
+    <style>
+        body {
+            margin: 0;
+            background-color: #ffffff; /* 白色背景 */
+            display: flex;
+            justify-content: center;  /* 水平居中 */
+            align-items: center;      /* 垂直居中 */
+            height: 100vh;
+        }
+        .icon-container {
+            display: flex;
+            gap: 60px; /* 图标之间的间距（可以自行调整） */
+        }
+        .icon {
+            width: 60px;
+            height: 60px;
+            transition: transform 0.2s ease;
+        }
+        .icon:hover {
+            transform: scale(1.2);
+        }
+    </style>
+</head>
+<body>
+    <div class="icon-container">
+        <!-- X -->
+        <a href="https://twitter.com" target="_blank">
+            <img src="https://cdn-icons-png.flaticon.com/512/733/733579.png" class="icon" alt="X">
+        </a>
+        <!-- YouTube -->
+        <a href="https://youtube.com" target="_blank">
+            <img src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" class="icon" alt="YouTube">
+        </a>
+        <!-- WeChat -->
+        <a href="https://weixin.qq.com" target="_blank">
+            <img src="https://cdn-icons-png.flaticon.com/512/733/733585.png" class="icon" alt="WeChat">
+        </a>
+        <!-- LinkedIn -->
+        <a href="https://linkedin.com" target="_blank">
+            <img src="https://cdn-icons-png.flaticon.com/512/145/145807.png" class="icon" alt="LinkedIn">
+        </a>
+    </div>
+
+</body>
+</html>
