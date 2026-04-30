@@ -22,6 +22,7 @@ description: "Societal Governance in the Face of Polycrisis: Exploring Alternati
 
   width: 100vw;
   margin-left: calc(-50vw + 50%);
+  margin-bottom: 0.25rem; /* 减少图片行下方间距 */
   padding: 0 2rem;
 }
 
@@ -29,6 +30,7 @@ description: "Societal Governance in the Face of Polycrisis: Exploring Alternati
   width: 250px;
   max-width: 100%;
   height: auto;
+  display: block; /* 去掉图片底部默认空隙 */
 }
 
 /* logo format */
@@ -37,23 +39,21 @@ description: "Societal Governance in the Face of Polycrisis: Exploring Alternati
   height: auto;
   transition: transform 0.2s ease;
 }
-.icon_egos{
+
+.icon_egos {
   width: 77px;
   height: 78px;
   transition: transform 0.2s ease;
 }
-.icon_register{
+
+.icon_register {
   width: 80px;
   height: auto;
   transition: transform 0.2s ease;
 }
 
-.icon:hover {
-  transform: scale(1.2);  /* 鼠标悬停放大 */
-}
-.icon_egos:hover {
-  transform: scale(1.2);
-}
+.icon:hover,
+.icon_egos:hover,
 .icon_register:hover {
   transform: scale(1.2);
 }
@@ -63,6 +63,8 @@ description: "Societal Governance in the Face of Polycrisis: Exploring Alternati
   gap: 40px;
   align-items: center;
   justify-content: center;
+
+  margin-top: 0.25rem; /* 减少超链接图片行上方间距 */
 }
 </style>
 

@@ -4,7 +4,8 @@ title: EGOS Standing Working Group
 description: "Societal Governance in the Face of Polycrisis: Exploring Alternatives through International and Comparative Research"
 ---
 
-## About the Standing Working Group
+<h2 align="center">About the Standing Working Group</h2>
+
 ***
 
 <section class="path-layout">
