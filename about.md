@@ -54,26 +54,29 @@ description: "Societal Governance in the Face of Polycrisis: Exploring Alternati
 
 
 <style>
-
 .path-layout {
-  max-width: 980px;
-  margin: 0 auto;
+  width: 100%;
+  max-width: none;
+  margin: 0;
+  padding: 0 12px;
   position: relative;
+  box-sizing: border-box;
 }
 
 .path-item {
   display: grid;
-  grid-template-columns: 160px 1fr;
-  gap: 40px;
+  grid-template-columns: 120px minmax(0, 1fr);
+  gap: 24px;
   position: relative;
-  padding: 0 0 48px;
+  padding: 0 0 42px;
+  box-sizing: border-box;
 }
 
 /* 中间路径线 */
 .path-item::before {
   content: "";
   position: absolute;
-  left: 180px;
+  left: 136px;
   top: 8px;
   bottom: -8px;
   width: 2px;
@@ -84,7 +87,7 @@ description: "Societal Governance in the Face of Polycrisis: Exploring Alternati
 .path-item::after {
   content: "";
   position: absolute;
-  left: 172px;
+  left: 128px;
   top: 8px;
   width: 18px;
   height: 18px;
@@ -107,34 +110,43 @@ description: "Societal Governance in the Face of Polycrisis: Exploring Alternati
   color: #2f4f9f;
   padding-top: 2px;
   line-height: 1.4;
+  margin: 0;
 }
 
 .path-content {
   background: #ffffff;
   border-radius: 18px;
-  padding: 22px 26px;
+  padding: 20px 24px;
   box-shadow: 0 12px 30px rgba(28, 39, 76, 0.08);
   border: 1px solid #edf0f7;
+  box-sizing: border-box;
 }
 
 .path-content p {
   margin: 0;
+  padding: 0;
   font-size: 16px;
   line-height: 1.8;
   color: #444;
+  word-break: normal;
 }
 
 /* 移动端适配 */
 @media (max-width: 720px) {
+  .path-layout {
+    padding: 0 8px;
+  }
+
   .path-item {
     grid-template-columns: 1fr;
     gap: 12px;
-    padding-left: 34px;
+    padding-left: 30px;
+    padding-bottom: 36px;
   }
 
   .path-title {
     text-align: left;
-    padding-left: 8px;
+    padding-left: 6px;
   }
 
   .path-item::before {
@@ -146,7 +158,7 @@ description: "Societal Governance in the Face of Polycrisis: Exploring Alternati
   }
 
   .path-content {
-    padding: 18px 20px;
+    padding: 18px 18px;
   }
 }
 </style>

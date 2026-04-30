@@ -22,7 +22,8 @@ description: "Societal Governance in the Face of Polycrisis: Exploring Alternati
 
   width: 100vw;
   margin-left: calc(-50vw + 50%);
-  margin-bottom: 0.25rem; /* 减少图片行下方间距 */
+  margin-bottom: 0rem; /* 减少图片行下方间距 */
+  margin-top: 0rem; /* 减少超链接图片行上方间距 */
   padding: 0 2rem;
 }
 
@@ -63,8 +64,7 @@ description: "Societal Governance in the Face of Polycrisis: Exploring Alternati
   gap: 40px;
   align-items: center;
   justify-content: center;
-
-  margin-top: 0.25rem; /* 减少超链接图片行上方间距 */
+  margin-bottom: 0rem; /* 减少超链接图片行上方间距 */
 }
 </style>
 
