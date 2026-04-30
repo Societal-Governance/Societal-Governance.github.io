@@ -41,14 +41,14 @@ description: "Societal Governance in the Face of Polycrisis: Exploring Alternati
 
 /* logo format */
 .icon {
-  width: 50px;
+  width: 40px;
   height: auto;
   transition: transform 0.2s ease;
 }
 
 .icon_egos {
-  width: 77px;
-  height: 78px;
+  width: 60px;
+  height: 62px;
   transition: transform 0.2s ease;
 }
 
