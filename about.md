@@ -6,7 +6,7 @@ description: "Societal Governance in the Face of Polycrisis: Exploring Alternati
 
 <h2 align="center">About the Standing Working Group</h2>
 
-***
+<br>
 
 <section class="path-layout">
   <div class="path-item" data-step="01">
@@ -58,6 +58,12 @@ description: "Societal Governance in the Face of Polycrisis: Exploring Alternati
 
 <style>
 .path-layout {
+  --title-width: 118px;
+  --path-gap: 44px;
+  --line-left: 148px;
+  --node-left: 130px;
+  
+
   width: 100%;
   max-width: none;
   margin: 0;
@@ -66,21 +72,19 @@ description: "Societal Governance in the Face of Polycrisis: Exploring Alternati
   box-sizing: border-box;
 }
 
-/* 单个路径项 */
 .path-item {
   display: grid;
-  grid-template-columns: 128px minmax(0, 1fr);
-  gap: 28px;
+  grid-template-columns: var(--title-width) minmax(0, 1fr);
+  gap: var(--path-gap);
   position: relative;
   padding: 0 0 46px;
   box-sizing: border-box;
 }
 
-/* 渐变路径线 */
 .path-item::before {
   content: "";
   position: absolute;
-  left: 148px;
+  left: var(--line-left);
   top: 18px;
   bottom: -10px;
   width: 3px;
@@ -92,22 +96,25 @@ description: "Societal Governance in the Face of Polycrisis: Exploring Alternati
   );
 }
 
-/* 路径节点 */
 .path-item::after {
-  content: "";
+  content: attr(data-step);
   position: absolute;
-  left: 137px;
-  top: 8px;
-  width: 24px;
-  height: 24px;
+  left: var(--node-left);
+  top: 2px;
+  width: 38px;
+  height: 38px;
   border-radius: 50%;
-  background:
-    radial-gradient(circle at 35% 30%, #ffffff 0 12%, transparent 13%),
-    linear-gradient(135deg, #4f7cff, #7ed9ff);
+  background: linear-gradient(135deg, #4f7cff, #7ed9ff);
+  color: #ffffff;
+  font-size: 13px;
+  font-weight: 800;
+  display: flex;
+  align-items: center;
+  justify-content: center;
   border: 5px solid #ffffff;
   box-shadow:
     0 0 0 5px rgba(79, 124, 255, 0.15),
-    0 10px 24px rgba(79, 124, 255, 0.35);
+    0 12px 28px rgba(79, 124, 255, 0.35);
   z-index: 2;
 }
 
@@ -163,28 +170,6 @@ description: "Societal Governance in the Face of Polycrisis: Exploring Alternati
   border-left: 1px solid rgba(79, 124, 255, 0.18);
   border-bottom: 1px solid rgba(79, 124, 255, 0.18);
   transform: rotate(45deg);
-}
-
-.path-item::after {
-  content: attr(data-step);
-  position: absolute;
-  left: 130px;
-  top: 2px;
-  width: 38px;
-  height: 38px;
-  border-radius: 50%;
-  background: linear-gradient(135deg, #4f7cff, #7ed9ff);
-  color: #ffffff;
-  font-size: 13px;
-  font-weight: 800;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  border: 5px solid #ffffff;
-  box-shadow:
-    0 0 0 5px rgba(79, 124, 255, 0.15),
-    0 12px 28px rgba(79, 124, 255, 0.35);
-  z-index: 2;
 }
 
 /* hover 效果 */
