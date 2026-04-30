@@ -34,6 +34,11 @@ description: "Societal Governance in the Face of Polycrisis: Exploring Alternati
   display: block; /* 去掉图片底部默认空隙 */
 }
 
+/* 增加最后两个图片之间的间距 */
+.logo-row img:nth-child(4) {
+  margin-left: 2rem;
+}
+
 /* logo format */
 .icon {
   width: 50px;
@@ -78,10 +83,10 @@ description: "Societal Governance in the Face of Polycrisis: Exploring Alternati
 
 <body>
     <div class="icon-container">
-        <!-- Register -->
+        <!-- Register 
         <a href="https://forms.cloud.microsoft/r/s1XnFWi41B" target="_blank">
             <img src="assets/images/register.png" class="icon_register" alt="register">
-        </a>
+        </a>-->
         <!-- YouTube 
         <a href="https://youtube.com" target="_blank">
             <img src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" class="icon" alt="YouTube">
