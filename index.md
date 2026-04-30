@@ -38,8 +38,8 @@ description: "Societal Governance in the Face of Polycrisis: Exploring Alternati
   transition: transform 0.2s ease;
 }
 .icon_egos{
-  width: 75px;
-  height: 75px;
+  width: 77px;
+  height: 78px;
   transition: transform 0.2s ease;
 }
 .icon_register{
