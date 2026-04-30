@@ -6,8 +6,6 @@ description: "Societal Governance in the Face of Polycrisis: Exploring Alternati
 
 <h2 align="center">About the Standing Working Group</h2>
 
-<br>
-
 <section class="path-layout">
   <div class="path-item" data-step="01">
     <h3 class="path-title">Core Problem</h3>
