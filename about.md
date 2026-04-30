@@ -62,12 +62,9 @@ description: "Societal Governance in the Face of Polycrisis: Exploring Alternati
   --path-gap: 44px;
   --line-left: 148px;
   --node-left: 130px;
-  
 
   width: 100%;
   max-width: none;
-  margin: 0;
-  padding: 8px 14px;
   position: relative;
   box-sizing: border-box;
 }
