@@ -135,6 +135,9 @@ description: "Societal Governance in the Face of Polycrisis: Exploring Alternati
   margin: 0;
   letter-spacing: 0.02em;
 }
+.path-item .path-title {
+  color: #27488f;
+}
 
 /* 内容卡片 */
 .path-content {
