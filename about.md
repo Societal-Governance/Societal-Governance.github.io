@@ -34,16 +34,6 @@ description: "Societal Governance in the Face of Polycrisis: Exploring Alternati
         </p>
       </div>
     </div>
-    <div class="path-item">
-      <div class="path-title">References</div>
-      <div class="path-content">
-        <p>
-        1. George, G., Howard-Grenville, J., Joshi, A., &amp; Tihanyi, L. (2016). Understanding and tackling societal grand challenges through management research. <em>Academy of Management Journal</em>, 59(6), 1880–1895.</p>
-        <p>2. Sachs, J. D., Lafortune, G., Fuller, G., &amp; Iablonovski, G. (2025). <em>Financing Sustainable Development to 2030 and Mid-Century: Sustainable Development Report 2025</em>. Paris: SDSN; Dublin: Dublin University Press. <a href="https://doi.org/10.25546/111909" target="_blank" rel="noopener noreferrer">https://doi.org/10.25546/111909</a></p>
-        <p>3. United Nations (2024). <em>UN global risk report 2024</em>. <a href="https://unglobalriskreport.org/UNHQ-GlobalRiskReport-WEB-FIN.pdf" target="_blank" rel="noopener noreferrer">https://unglobalriskreport.org/UNHQ-GlobalRiskReport-WEB-FIN.pdf</a>
-        </p>
-      </div>
-    </div>
 </section>
 
 ><b>References</b>
