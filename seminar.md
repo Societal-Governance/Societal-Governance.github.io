@@ -150,6 +150,7 @@ In 2026, we launched a monthly online seminar series on societal governance to s
           <em>Democracy and Prosperity: Reinventing Capitalism Through a Turbulent Century</em>, with Torben Iversen (Princeton University Press, 2020)
         </li>
       </ul>
+      </div>
     </div>
   </details>
 </div>
