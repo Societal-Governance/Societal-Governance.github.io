@@ -118,7 +118,7 @@ In 2026, we launched a monthly online seminar series on societal governance to s
           <p><strong>Speaker:</strong> 
             David Soskice<!--<a href="https://www.sppm.tsinghua.edu.cn/english/info/1067/1962.htm"></a>-->
           </p>
-          <p><strong>Affiliation:</strong> </p>
+          <!--<p><strong>Affiliation:</strong> </p>-->
           <p><strong>Date & Time:</strong><br>
             June 5th, 2026, 8:00am-9:00am, ET<br>
             June 5th, 2026, 1:00pm-2:00pm, UK<br>
