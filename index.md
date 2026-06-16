@@ -87,10 +87,10 @@ description: "Societal Governance in the Face of Polycrisis: Exploring Alternati
         <a href="https://forms.cloud.microsoft/r/s1XnFWi41B" target="_blank">
             <img src="assets/images/register.png" class="icon_register" alt="register">
         </a>-->
-        <!-- YouTube 
-        <a href="https://youtube.com" target="_blank">
+        <!-- YouTube -->
+        <a href="https://www.youtube.com/@EGOSSWGSocietalGovernance" target="_blank">
             <img src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" class="icon" alt="YouTube">
-        </a> -->
+        </a>
         <!-- SWGs -->
         <a href="https://www.egos.org/SWGs/Preview_02" target="_blank">
             <img src="assets/images/egos_logo.png" class="icon_egos" alt="SWGs">
