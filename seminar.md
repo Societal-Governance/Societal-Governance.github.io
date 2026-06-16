@@ -287,7 +287,7 @@ In 2026, we launched a monthly online seminar series on societal governance to s
 
 ## Videos Repository
 
-- Seminar 1 – [Watch]
+- Seminar Series #1 – <a href="https://www.youtube.com/watch?v=yNgmvmp0810">Jerry Davis: Comparative organization theory and societal governance</a>
 - Seminar 2 – [Watch]
 
 
