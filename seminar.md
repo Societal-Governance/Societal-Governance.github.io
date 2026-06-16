@@ -177,7 +177,7 @@ In 2026, we launched a monthly online seminar series on societal governance to s
             <a href="https://www.sppm.tsinghua.edu.cn/english/info/1067/1962.htm">Xufeng Zhu</a>
           </p>
           <p><strong>Affiliation:</strong> Tsinghua University</p>
-          <p><strong>Date & Time:</strong></p>
+          <p><strong>Date & Time:</strong><br>
             July 3rd, 2026, 8:00am-9:00am, ET<br>
             July 3rd, 2026, 1:00pm-2:00pm, UK<br>
             July 3rd, 2026, 8:00pm-9:00pm, China
