@@ -193,11 +193,6 @@ In 2026, we launched a monthly online seminar series on societal governance to s
         <p>In this seminar, Zhu Xufeng will discuss China's institutional pathways and governance practices in implementing the United Nations Sustainable Development Goals (SDGs),  elaborating on how China translates the global development agenda into national strategies and local action plans, and drives the effective translation of international commitments into institutional design, policy innovation, and governance practices.</p>
         <h3>Short Bio</h3>
         <p>Xufeng ZHU is Professor and Dean at the School of Public Policy and Management (SPPM), Tsinghua University, Executive Director of Tsinghua Institute for Sustainable Development Goals (TUSDG), Director of Tsinghua Science & Technology Development and Governance Center (TUSTDG), and Editor-in-Chief of China Public Administration Review. He was nominated by UN Secretary-General António Guterres and appointed by the Economic and Social Council as a member of the Committee for Development Policy (CDP). He serves as President of the Asian Association for Public Administration (AAPA), Vice President of the China Association of Administrative Management, Vice President and General Secretary of the China Public Management Association.</p>
-      <h3>Zoom meeting</h3>
-        <p>Societal Governance Webinar Series - From International Commitment to Localization Strategy for Sustainable Development in China.</p>
-        <p><a href="https://cityu.zoom.us/j/89930349054?pwd=B4D8HmGtJ4au6droo1mKwBdjbM0GqT.1">Invite link</a></p>
-        <p>Meeting ID: 899 3034 9054 </p>
-        <p>Passcode: 255525 </p>
       </div>
     </div>
   </details>
