@@ -21,29 +21,32 @@ Our activities are designed to advance novel concepts and frameworks for underst
 
 <tr>
 <td>2026-ongoing</td>
-<td>Online Seminar Series</td>
-<td><a href="https://societal-governance.github.io/seminar.html#seminar-4">
-      Seminar Series
+<td><a href="https://societal-governance.github.io/seminar.html#seminar-1">
+      Online Seminar Series
     </a>
 </td>
+<td>Seminar Series</td>
 <td>Societal governance in the face of polycrisis: Exploring alternatives through international and comparative research</td>
 </tr>
 
 
 <tr>
 <td>2026</td>
-<td>AOM Conference Symposium Panel, Philadelphia</td>
 <td><a href="https://events.aom.org/events/aom-2026/session/w0fhi2Ac2fCmVbTek_cAW">
-      Symposium Panel
+      AOM Conference Symposium Panel, Philadelphia
     </a>
 </td>
+<td>Symposium Panel</td>
 <td>How management scholarship might respond through a renewed program of research on comparative societal governance</td>
 </tr>
 
 
+
 <tr>
 <td>2027</td>
-<td>EGOS Conference, Liverpool</td>
+<td><a href="./egos-liverpool.html">
+      EGOS Conference, Liverpool
+    </a>
 <td>Subtheme</td>
 <td>Societal governance in the face of grand challenges: Perspectives from the Global North, South, East, and West</td>
 </tr>
