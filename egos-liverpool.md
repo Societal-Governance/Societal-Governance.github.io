@@ -7,7 +7,7 @@ description: "Societal Governance in the Face of Polycrisis: Exploring Alternati
 <h1 align="center">Call for Papers</h1>
 
 
-<h3 align="center">Societal Governance in the Face of Grand Challenges: Perspectives from the Global North and South, East and West</h3>
+<h2 align="center">Societal Governance in the Face of Grand Challenges: Perspectives from the Global North and South, East and West</h2>
 
 ### Convenors
 
