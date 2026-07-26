@@ -21,13 +21,25 @@ Our activities are designed to advance novel concepts and frameworks for underst
 
 <tr>
 <td>2026-ongoing</td>
-<td>Online seminar series</td>
-<td><a href="https://wenxin-lu0.github.io/test.github.io/seminar.html#seminar-1">
-      Seminar series
+<td>Online Seminar Series</td>
+<td><a href="https://societal-governance.github.io/seminar.html#seminar-4">
+      Seminar Series
     </a>
 </td>
 <td>Societal governance in the face of polycrisis: Exploring alternatives through international and comparative research</td>
 </tr>
+
+
+<tr>
+<td>2026</td>
+<td>AOM Conference Symposium Panel, Philadelphia</td>
+<td><a href="https://events.aom.org/events/aom-2026/session/w0fhi2Ac2fCmVbTek_cAW">
+      Symposium Panel
+    </a>
+</td>
+<td>How management scholarship might respond through a renewed program of research on comparative societal governance</td>
+</tr>
+
 
 <tr>
 <td>2027</td>
