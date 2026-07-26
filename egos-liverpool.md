@@ -1,14 +1,15 @@
 ---
 layout: default
-title: EGOS Liverpool
-description: "43rd EGOS Colloquium in Liverpool, July 8–10, 2027"
+title: EGOS Standing Working Group
+description: "Societal Governance in the Face of Polycrisis: Exploring Alternatives through International and Comparative Research"
 ---
 
-## Call for Papers
+<h1 align="center">Call for Papers</h1>
 
-### Societal Governance in the Face of Grand Challenges: Perspectives from the Global North and South, East and West
 
-## Convenors
+<h3 align="center">Societal Governance in the Face of Grand Challenges: Perspectives from the Global North and South, East and West</h3>
+
+### Convenors
 
 **Zlatko Bodrožić**  
 University of Liverpool, UK  
@@ -21,6 +22,8 @@ University of Southern California, USA
 **Nicole Ning Liu**  
 City University of Hong Kong, Hong Kong, China  
 [ning.liu@cityu.edu.hk](mailto:ning.liu@cityu.edu.hk)
+
+***
 
 Our field has developed conceptual tools for analyzing change in corporate governance in the face of grand challenges (Klein et al., 2019). In contrast, research on change in its macro-level counterpart—societal governance (Kourula et al., 2019)—has not kept pace, even though adaptation efforts at the firm level are enabled and constrained by the “rules of the game” (North, 1990) of the wider societal governance system (e.g., Bodrožić & Adler, 2025; Delmestri & Schüßler, 2025; Nyberg & Wright, 2025).
 
@@ -39,6 +42,8 @@ Possible topics and questions include, but are not limited to:
 - Across sectors and countries, who are the key orchestrators of collective action in the face of grand challenges in their respective contexts? What role in this orchestration is played by firms, government agencies, community-based organizations, and other societal actors? Across sectors and countries, what configurations of orchestrators drive more effective responses to these challenges (see Dhanaraj & Parkhe, 2006; Klein et al., 2019)?
 - How do societal governance systems change over time, and how can existing systems adapt to more effectively address the multiple grand challenges we face? How do incumbent societal actors resist or redirect these adaptation efforts (see Wright & Nyberg, 2017)?
 - How can engaged scholarship provide societal actors with concepts and tools to act more effectively as agents of change?
+
+***
 
 ## References
 
