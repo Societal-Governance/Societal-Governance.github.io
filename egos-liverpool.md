@@ -4,10 +4,27 @@ title: EGOS Standing Working Group
 description: "Societal Governance in the Face of Polycrisis: Exploring Alternatives through International and Comparative Research"
 ---
 
-<h1 align="center">Call for Papers</h1>
 
+<a class="egos-title-link" href="https://docs.google.com/document/d/1WQZ7XeYFqUV-gZOkrWGiuBFox7Xe4lCa/edit?usp=drive_link&ouid=104277887743127924941&rtpof=true&sd=true">
+      <h1 align="center">Call for Papers</h1>
+      <h2 align="center">Societal Governance in the Face of Grand Challenges: Perspectives from the Global North and South, East and West</h2>
+    </a>
 
-<h2 align="center">Societal Governance in the Face of Grand Challenges: Perspectives from the Global North and South, East and West</h2>
+<style>
+.egos-title-link,
+.egos-title-link:visited,
+.egos-title-link:hover,
+.egos-title-link:focus {
+  color: #000;
+  text-decoration: underline;
+}
+
+.egos-title-link h1,
+.egos-title-link h2 {
+  color: inherit;
+  text-decoration: inherit;
+}
+</style>
 
 ### Convenors
 
