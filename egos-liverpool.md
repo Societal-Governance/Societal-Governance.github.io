@@ -5,10 +5,12 @@ description: "Societal Governance in the Face of Polycrisis: Exploring Alternati
 ---
 
 
-<a class="egos-title-link" href="https://docs.google.com/document/d/1WQZ7XeYFqUV-gZOkrWGiuBFox7Xe4lCa/edit?usp=drive_link&ouid=104277887743127924941&rtpof=true&sd=true">
-      <h1 align="center">Call for Papers</h1>
-      <h2 align="center">Societal Governance in the Face of Grand Challenges: Perspectives from the Global North and South, East and West</h2>
-    </a>
+<h1 align="center">
+  <a class="egos-title-link" href="https://docs.google.com/document/d/1WQZ7XeYFqUV-gZOkrWGiuBFox7Xe4lCa/edit?usp=drive_link&amp;ouid=104277887743127924941&amp;rtpof=true&amp;sd=true">Call for Papers</a>
+</h1>
+<h2 align="center">
+  <a class="egos-title-link" href="https://docs.google.com/document/d/1WQZ7XeYFqUV-gZOkrWGiuBFox7Xe4lCa/edit?usp=drive_link&amp;ouid=104277887743127924941&amp;rtpof=true&amp;sd=true">Societal Governance in the Face of Grand Challenges: Perspectives from the Global North and South, East and West</a>
+</h2>
 
 <style>
 .egos-title-link,
@@ -17,12 +19,6 @@ description: "Societal Governance in the Face of Polycrisis: Exploring Alternati
 .egos-title-link:focus {
   color: #000;
   text-decoration: underline;
-}
-
-.egos-title-link h1,
-.egos-title-link h2 {
-  color: inherit;
-  text-decoration: inherit;
 }
 </style>
 
