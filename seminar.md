@@ -159,7 +159,7 @@ In 2026, we launched a monthly online seminar series on societal governance to s
 
 
 <div class="seminar-card">
-  <details id="seminar-3" open>
+  <details id="seminar-3">
   <summary class="seminar-summary">
     <span class="seminar-left">
       <span class="seminar-series">Seminar Series #3</span>
@@ -199,11 +199,11 @@ In 2026, we launched a monthly online seminar series on societal governance to s
 </div>
 
 <div class="seminar-card">
-  <details id="seminar-4">
+  <details id="seminar-4" open>
   <summary class="seminar-summary">
     <span class="seminar-left">
       <span class="seminar-series">Seminar Series #4</span>
-      <span class="seminar-title"></span>
+      <span class="seminar-title">Governing in the Plural: Comparative Capitalisms, Stakeholder Authority, and the Search for Viable Alternatives</span>
     </span>
     <span class="seminar-right">
       <span class="seminar-meta">Ruth Aguilera, Sept. 4th 2026</span>
@@ -214,20 +214,40 @@ In 2026, we launched a monthly online seminar series on societal governance to s
       <div class="seminar-top">
         <div class="seminar-text">
           <p><strong>Speaker:</strong> 
-            Ruth Aguilera<!--<a href="https://www.sppm.tsinghua.edu.cn/english/info/1067/1962.htm"></a>-->
+            <a href="https://www.ruthaguilera.com/" target="_blank" rel="noopener noreferrer">Ruth V. Aguilera</a>
           </p>
-          <p><strong>Affiliation:</strong> </p>
-          <p><strong>Date & Time:</strong></p>
+          <p><strong>Affiliation:</strong> Northeastern University</p>
+          <p><strong>Date & Time:</strong><br>
+            September 4th, 2026, 8:00am-9:00am, ET<br>
+            September 4th, 2026, 1:00pm-2:00pm, UK<br>
+            September 4th, 2026, 8:00pm-9:00pm, China
+          </p>
         </div>
         <div class="seminar-photo">
-          <!--<img src="assets/images/Xufeng.png" alt="Xufeng Zhu">-->
+          <img src="assets/images/Ruth.jpeg" alt="Ruth V. Aguilera">
         </div>
       </div>
       <hr class="seminar-divider">
       <div class="seminar-abstract">
         <h3>Abstract</h3>
-        <p></p>
-      </div>
+        <p>The polycrisis has not produced a single governance failure so much as it has exposed the limits of the categories we use to study governance at all. In this talk I argue that finding alternatives requires three moves, each of which unsettles a familiar assumption. First, <em>comparative capitalisms</em>. The liberal/coordinated dichotomy that organized a generation of scholarship was never built to explain a world of geopolitical fragmentation, techno-nationalism, and state-led and hybrid capitalisms. The institutional map is being redrawn and with it the question shifts from which model performs best to how institutional complementarities are being deliberately reassembled by policy. Second, <em>stakeholder governance</em>. If alternatives are to be more than rhetorical, we need to distinguish who actually holds participatory rights from what organizations are genuinely bound to. Stakeholders can be visible without having voice, consulted without recourse, represented without control, or named as beneficiaries without any authority over the decisions that affect them. Credibility rests not on declarations of stakeholder orientation but on arrangements that are costly to abandon. Third, <em>configurational thinking</em>. Governance outcomes are equifinal, asymmetric, and conjunctural: the same institutional condition can push in opposite directions depending on what it combines with, which is why variable-centered research keeps returning equivocal results. Power is relational and constellational, not additive. Taken together, these moves suggest that alternatives to our present governance arrangements are plural by construction. The productive question is not which system wins, but which combinations of institutions, rights, and commitments are viable, and for whom.</p>
+        <h3>Short Bio</h3>
+        <p>Ruth V. Aguilera has an undergraduate degree in Economics from the University of Barcelona and a Master’s and PhD in Sociology from Harvard University. She is the Distinguished Darla and Frederick Brodsky Trustee Professor in Global Business at the D’Amore-McKim School of Business at Northeastern University in Boston and a Visiting Professor in the Strategy Department at ESADE Business School. Ruth’s research, teaching, and advising interests lie at the intersection of international corporate governance, global strategy, and corporate social responsibility/sustainability. She is the Deputy Editor at the <em>Journal of International Business Studies</em>, and was previously an Associate Editor at <em>Academy of Management Review</em>, <em>Corporate Governance: An International Review</em>, and <em>Organization Science</em>. She has a forthcoming book about boards of directors. Ruth is a Fellow of the Academy of Management, the Academy of International Business, the International Corporate Governance Society, and the Strategic Management Society.</p>
+        <h3>Background Readings</h3>
+        <ul style="list-style: none; margin: 0; padding: 0;">
+          <li style="margin-bottom: 8px;">
+            Aguilera, R. V., and Ruiz-Castillo, M. 2025. “Toward an Updated Corporate Governance Framework: Fundamentals, Disruptions, and Future Research.” <em>Business Research Quarterly</em>, 28(2): 336–348.
+          </li>
+          <li style="margin-bottom: 8px;">
+            Mutlu, C., Duran, P., Aguilera, R. V., and Siems, M. Forthcoming. “Varieties of Capitalism and International Business Policy: A Systematic Review of Policy Domains and Emerging Research Paths.” <em>Journal of International Business Policy</em>.
+          </li>
+          <li style="margin-bottom: 8px;">
+            Witt, M. A., Fainshmidt, S., and Aguilera, R. V. 2022. “Our Board, Our Rules: Nonconformity to Global Corporate Governance Norms.” <em>Administrative Science Quarterly</em>, 67(1): 131–166.
+          </li>
+          <li>
+            Bacq, S., and Aguilera, R. V. 2022. “Stakeholder Governance for Responsible Innovation: A Theory of Value Creation, Appropriation, and Distribution.” <em>Journal of Management Studies</em>, 59(1): 29–60.
+          </li>
+        </ul>
     </div>
   </details>
 </div>
@@ -256,6 +276,67 @@ In 2026, we launched a monthly online seminar series on societal governance to s
         <div class="seminar-photo">
           <!--<img src="assets/images/Xufeng.png" alt="Xufeng Zhu">-->
         </div>
+      </div>
+      <hr class="seminar-divider">
+      <div class="seminar-abstract">
+        <h3>Abstract</h3>
+        <p></p>
+      </div>
+    </div>
+  </details>
+</div>
+
+<div class="seminar-card">
+  <details id="seminar-6">
+  <summary class="seminar-summary">
+    <span class="seminar-left">
+      <span class="seminar-series">Seminar Series #6</span>
+      <span class="seminar-title">Three emerging scholars from NA, Europe, Asia</span>
+      <span class="seminar-meta">Sukanya Roy (UCL, Michigan), Nicole Ning Liu (City U HK), Stefanie Habersang</span>
+    </span>
+    <span class="seminar-right">
+      <span class="seminar-meta">Nov. 6th 2026</span>
+      <span class="arrow">▶</span>
+    </span>
+  </summary>
+    <div class="seminar-content">
+      <div class="seminar-top">
+        <div class="seminar-text">
+          <p><strong>Speaker:</strong></p>
+          <p><strong>Affiliation:</strong></p>
+          <p><strong>Date & Time:</strong></p>
+        </div>
+        <div class="seminar-photo"></div>
+      </div>
+      <hr class="seminar-divider">
+      <div class="seminar-abstract">
+        <h3>Abstract</h3>
+        <p></p>
+      </div>
+    </div>
+  </details>
+</div>
+
+<div class="seminar-card">
+  <details id="seminar-7">
+  <summary class="seminar-summary">
+    <span class="seminar-left">
+      <span class="seminar-series">Seminar Series #7</span>
+      <span class="seminar-title">Robust Governance and Strategy Management-at-Scale</span>
+    </span>
+    <span class="seminar-right">
+      <span class="seminar-meta">John Bryson, U. of Minnesota, Dec. 4th 2026</span>
+      <span class="arrow">▶</span>
+    </span>
+  </summary>
+    <div class="seminar-content">
+      <div class="seminar-top">
+        <div class="seminar-text">
+          <p><strong>Speaker:</strong></p>
+          <p><strong>Affiliation:</strong></p>
+          <p><strong>Date & Time:</strong></p>
+        </div>
+        <div class="seminar-photo"></div>
       </div>
       <hr class="seminar-divider">
       <div class="seminar-abstract">

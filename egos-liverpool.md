@@ -4,6 +4,9 @@ title: EGOS Standing Working Group
 description: "Societal Governance in the Face of Polycrisis: Exploring Alternatives through International and Comparative Research"
 ---
 
+<p class="egos-event-link">
+  <a href="https://www.egos.org/2027_Liverpool/General_Theme" target="_blank" rel="noopener noreferrer">43rd EGOS Colloquium 2027 — General Theme</a>
+</p>
 
 <h1 align="center">
   <a class="egos-title-link" href="https://docs.google.com/document/d/1WQZ7XeYFqUV-gZOkrWGiuBFox7Xe4lCa/edit?usp=drive_link&amp;ouid=104277887743127924941&amp;rtpof=true&amp;sd=true">Call for Papers</a>
@@ -12,7 +15,37 @@ description: "Societal Governance in the Face of Polycrisis: Exploring Alternati
   <a class="egos-title-link" href="https://docs.google.com/document/d/1WQZ7XeYFqUV-gZOkrWGiuBFox7Xe4lCa/edit?usp=drive_link&amp;ouid=104277887743127924941&amp;rtpof=true&amp;sd=true">Societal Governance in the Face of Grand Challenges: Perspectives from the Global North and South, East and West</a>
 </h2>
 
+<p class="egos-submission-note"><strong>Note:</strong> The conference submission timeline will be announced by the organizers at a later date. Please stay tuned for updates.</p>
+
 <style>
+.egos-event-link {
+  margin: 0 0 10px;
+  text-align: center;
+  font-size: 1rem;
+  font-weight: 600;
+}
+
+.egos-event-link a,
+.egos-event-link a:visited {
+  color: #1f5f8b;
+  text-decoration: none;
+}
+
+.egos-event-link a:hover,
+.egos-event-link a:focus {
+  text-decoration: underline;
+}
+
+.egos-submission-note {
+  margin: 20px 0 28px;
+  padding: 12px 16px;
+  color: #155a8a;
+  background: #eef7fc;
+  border-left: 4px solid #2f80b7;
+  border-radius: 6px;
+  line-height: 1.6;
+}
+
 .egos-title-link,
 .egos-title-link:visited,
 .egos-title-link:hover,
