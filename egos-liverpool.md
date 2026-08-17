@@ -19,10 +19,19 @@ description: "Societal Governance in the Face of Polycrisis: Exploring Alternati
 
 <style>
 .egos-event-link {
-  margin: 0 0 10px;
+  margin: 0;
   text-align: center;
   font-size: 1rem;
   font-weight: 600;
+}
+
+.egos-event-link + h1 {
+  margin-top: 4px;
+  margin-bottom: 12px;
+}
+
+.egos-event-link + h1 + h2 {
+  margin-top: 0;
 }
 
 .egos-event-link a,
