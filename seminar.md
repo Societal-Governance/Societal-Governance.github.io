@@ -303,7 +303,7 @@ In 2026, we launched a monthly online seminar series on societal governance to s
     <div class="seminar-content">
       <div class="seminar-top">
         <div class="seminar-text">
-          <p><strong>Speaker:</strong></p>
+          <p><strong>Speaker:</strong>Sukanya Roy (UCL, Michigan), Nicole Ning Liu (City UHK), Stefanie Habersang</p>
           <p><strong>Affiliation:</strong></p>
           <p><strong>Date & Time:</strong></p>
         </div>
