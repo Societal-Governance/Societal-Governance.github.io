@@ -271,7 +271,7 @@ In 2026, we launched a monthly online seminar series on societal governance to s
           <p><strong>Speaker:</strong> 
             Sigrid Quack<!--<a href="https://www.sppm.tsinghua.edu.cn/english/info/1067/1962.htm"></a>-->
           </p>
-          <p><strong>Affiliation:</strong> </p>
+          <p><strong>Affiliation: University Duisburg-Essen</strong> </p>
           <p><strong>Date & Time:</strong></p>
         </div>
         <div class="seminar-photo">
@@ -293,7 +293,7 @@ In 2026, we launched a monthly online seminar series on societal governance to s
     <span class="seminar-left">
       <span class="seminar-series">Seminar Series #6</span>
       <span class="seminar-title"></span>
-      <span class="seminar-meta">Sukanya Roy (UCL, Michigan), Nicole Ning Liu (City UHK), Stefanie Habersang</span>
+      <span class="seminar-meta">Sukanya Roy (UCL, Michigan), Nicole Ning Liu (CityUHK), Stefanie Habersang</span>
     </span>
     <span class="seminar-right">
       <span class="seminar-meta">Nov. 6th 2026</span>
@@ -303,8 +303,7 @@ In 2026, we launched a monthly online seminar series on societal governance to s
     <div class="seminar-content">
       <div class="seminar-top">
         <div class="seminar-text">
-          <p><strong>Speaker:</strong>Sukanya Roy (UCL, Michigan), Nicole Ning Liu (City UHK), Stefanie Habersang</p>
-          <p><strong>Affiliation:</strong></p>
+          <p><strong>Speaker:</strong>Sukanya Roy (UCL, Michigan), Nicole Ning Liu (CityUHK), Stefanie Habersang</p>
           <p><strong>Date & Time:</strong></p>
         </div>
         <div class="seminar-photo"></div>
@@ -326,7 +325,7 @@ In 2026, we launched a monthly online seminar series on societal governance to s
       <span class="seminar-title">Robust Governance and Strategy Management-at-Scale</span>
     </span>
     <span class="seminar-right">
-      <span class="seminar-meta">John Bryson, U. of Minnesota, Dec. 4th 2026</span>
+      <span class="seminar-meta">John Bryson, Dec. 4th 2026</span>
       <span class="arrow">▶</span>
     </span>
   </summary>
@@ -334,7 +333,7 @@ In 2026, we launched a monthly online seminar series on societal governance to s
       <div class="seminar-top">
         <div class="seminar-text">
           <p><strong>Speaker:</strong></p>
-          <p><strong>Affiliation:</strong></p>
+          <p><strong>Affiliation: University of Minnesota</strong></p>
           <p><strong>Date & Time:</strong></p>
         </div>
         <div class="seminar-photo"></div>
