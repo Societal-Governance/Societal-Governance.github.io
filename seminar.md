@@ -248,6 +248,7 @@ In 2026, we launched a monthly online seminar series on societal governance to s
             Bacq, S., and Aguilera, R. V. 2022. “Stakeholder Governance for Responsible Innovation: A Theory of Value Creation, Appropriation, and Distribution.” <em>Journal of Management Studies</em>, 59(1): 29–60.
           </li>
         </ul>
+      </div>
     </div>
   </details>
 </div>
