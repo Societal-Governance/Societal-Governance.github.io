@@ -60,6 +60,18 @@ In 2026, we launched a monthly online seminar series on societal governance to s
       </div>
       <hr class="seminar-divider">
       <div class="seminar-abstract">
+        <div class="seminar-video">
+          <h3>Video Recording</h3>
+          <a
+            class="seminar-video-link"
+            href="https://www.youtube.com/watch?v=yNgmvmp0810"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            <span class="seminar-video-icon" aria-hidden="true">▶</span>
+            Watch Jerry Davis: Comparative Organization Theory and Societal Governance
+          </a>
+        </div>
         <h3>Abstract</h3>
         <p>
           Organizations vary widely around the world. Even firms in the same industry, creating essentially similar products or services, can look very different in their ownership, their size, their central aims and power structures, where they place their boundaries, and how they balance their commitments to different stakeholders. For example, half of the world's carbon emissions come from just 32 fossil fuel companies -- with 17 of the 20 biggest owned by governments. Any approach to societal governance must build in an understanding of the connections between public policy and the shape of business in different countries, as must any efforts at large-scale reform. I propose 'institutional terroir' as a metaphor and a set of directives to think about how national institutions shape firms.
@@ -116,9 +128,8 @@ In 2026, we launched a monthly online seminar series on societal governance to s
       <div class="seminar-top">
         <div class="seminar-text">
           <p><strong>Speaker:</strong> 
-            David Soskice<!--<a href="https://www.sppm.tsinghua.edu.cn/english/info/1067/1962.htm"></a>-->
+            David Soskice
           </p>
-          <!--<p><strong>Affiliation:</strong> </p>-->
           <p><strong>Date & Time:</strong><br>
             June 5th, 2026, 8:00am-9:00am, ET<br>
             June 5th, 2026, 1:00pm-2:00pm, UK<br>
@@ -359,19 +370,6 @@ In 2026, we launched a monthly online seminar series on societal governance to s
 
 
 
-***
-
-## Videos Repository
-
-- Seminar Series #1 – <a href="https://www.youtube.com/watch?v=yNgmvmp0810">Jerry Davis: Comparative organization theory and societal governance</a>
-- Seminar 2 – [Watch]
-
-
-
-
-
-
-
 <script>
 window.addEventListener("load", function () {
   if (location.hash) {
@@ -514,6 +512,41 @@ details[open] .arrow {
   margin-top: 0;
 }
 
+.seminar-video {
+  margin: 10px 0 24px;
+}
+
+.seminar-video h3 {
+  margin-bottom: 10px;
+}
+
+.seminar-video-link {
+  display: inline-flex;
+  align-items: center;
+  gap: 10px;
+  box-sizing: border-box;
+  padding: 10px 14px;
+  color: #155a8a;
+  background: #eef7fc;
+  border: 1px solid #c9e4f3;
+  border-radius: 8px;
+  font-weight: 600;
+  line-height: 1.4;
+  text-decoration: none;
+}
+
+.seminar-video-link:hover,
+.seminar-video-link:focus {
+  color: #0f476e;
+  background: #e1f1fa;
+  text-decoration: underline;
+}
+
+.seminar-video-icon {
+  flex-shrink: 0;
+  font-size: 14px;
+}
+
 .seminar-divider {
   margin: 24px 0;
   border: none;
@@ -528,6 +561,10 @@ details[open] .arrow {
 
 /* 响应式 */
 @media (max-width: 768px) {
+  .seminar-video-link {
+    width: 100%;
+  }
+
   .seminar-summary {
     align-items: flex-start;
   }

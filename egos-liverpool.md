@@ -122,7 +122,9 @@ George, G., Howard-Grenville, J., Joshi, A., & Tihanyi, L. (2016). Understanding
 
 Jepperson, R. L., & Meyer, J. W. (2021). *Institutional theory: The cultural construction of organizations, states, and identities*. Cambridge University Press.
 
-Jessop, B. (2022). Cultural political economy and governance in a world of polycrisis. *Critical Sociology, 48*(4–5), 645–655.
+Jessop, Bob. 2010 Cultural political economy and critical policy studies. *Critical policy studies*, 3 (3-4): 336-356.
+
+<!--Jessop, B. (2022). Cultural political economy and governance in a world of polycrisis. *Critical Sociology, 48*(4–5), 645–655. -->
 
 Klein, P. G., Mahoney, J. T., McGahan, A. M., & Pitelis, C. N. (2019). Organizational governance adaptation: Who is in, who is out, and who gets what. *Academy of Management Review, 44*(1), 6–27. [https://doi.org/10.5465/amr.2014.0459](https://doi.org/10.5465/amr.2014.0459)
 
