@@ -142,6 +142,18 @@ In 2026, we launched a monthly online seminar series on societal governance to s
       </div>
       <hr class="seminar-divider">
       <div class="seminar-abstract">
+        <div class="seminar-video">
+          <h3>Video Recording</h3>
+          <a
+            class="seminar-video-link"
+            href="https://www.youtube.com/watch?v=NH1sF50cpt0"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            <span class="seminar-video-icon" aria-hidden="true">▶</span>
+            Watch David Soskice: The Advanced European States in the Polycrisis
+          </a>
+        </div>
         <h3>Abstract</h3>
         <p>The intense phase of the digital technological revolution built up through the 2010s and which we are very much still in, dominated by the US and now by China, and echoed in the advanced economies of Europe, has deeply polarised all these very differently organised societies; apart from China (?), political entrepreneurs have leveraged polarisation into radical right parties in the US and most of advanced Europe. In advanced Europe this has weakened national governments in terms of their capacity to make credible long-term agreements with other governments and/or between and within political parties. In turn the EU only functions with great difficulty, and can seldom push the radical policies needed to meet (as well as rapidly respond to) the external challenges of autocracy and leading-edge technology. States are further polarised between the high value-added and innovation-oriented (Superstar metro city) Clusters in which most important activities take place, and the ‘Places that Don’t Matter’; but the governance of Clusters generally plays no part in national politics.  In addition contemporary corporate governance systems operate very differently across Clusters, even between Denmark, Sweden, Germany, the Netherlands and Switzerland, very sharply between the UK and France; even more so the role of unions, key in the Nordics and Germanic Clusters, barely seriously in France and the UK; and in both areas the US. So where to go from here? We look seriously at Draghi’s 2-speed Europe, at his proposal for borrowing an annual amount of €1tn to finance radical construction of innovation systems, and we argue the high-powered incentive structures which it makes possible in reshaping the complex governance structures of the advanced European systems, while retaining the many core elements which cannot be changed.</p>
       <h3>Short Bio</h3>
