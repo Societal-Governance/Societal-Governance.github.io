@@ -260,7 +260,7 @@ In 2026, we launched a monthly online seminar series on societal governance to s
             target="_blank"
             rel="noopener noreferrer"
           >
-            <span class="seminar-resource-icon" aria-hidden="true">PPT</span>
+            <span class="seminar-resource-icon" aria-hidden="true">PDF</span>
             View Ruth V. Aguilera Presentation Slides
           </a>
         </div>
