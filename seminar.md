@@ -252,6 +252,18 @@ In 2026, we launched a monthly online seminar series on societal governance to s
       </div>
       <hr class="seminar-divider">
       <div class="seminar-abstract">
+        <div class="seminar-resource">
+          <h3>Presentation Slides</h3>
+          <a
+            class="seminar-resource-link"
+            href="https://drive.google.com/file/d/1WkxzFjWcigcAQxkatuv5iFTotUOZzJkS/view?usp=drive_link"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            <span class="seminar-resource-icon" aria-hidden="true">PPT</span>
+            View Ruth V. Aguilera Presentation Slides
+          </a>
+        </div>
         <h3>Abstract</h3>
         <p>The polycrisis has not produced a single governance failure so much as it has exposed the limits of the categories we use to study governance at all. In this talk I argue that finding alternatives requires three moves, each of which unsettles a familiar assumption. First, <em>comparative capitalisms</em>. The liberal/coordinated dichotomy that organized a generation of scholarship was never built to explain a world of geopolitical fragmentation, techno-nationalism, and state-led and hybrid capitalisms. The institutional map is being redrawn and with it the question shifts from which model performs best to how institutional complementarities are being deliberately reassembled by policy. Second, <em>stakeholder governance</em>. If alternatives are to be more than rhetorical, we need to distinguish who actually holds participatory rights from what organizations are genuinely bound to. Stakeholders can be visible without having voice, consulted without recourse, represented without control, or named as beneficiaries without any authority over the decisions that affect them. Credibility rests not on declarations of stakeholder orientation but on arrangements that are costly to abandon. Third, <em>configurational thinking</em>. Governance outcomes are equifinal, asymmetric, and conjunctural: the same institutional condition can push in opposite directions depending on what it combines with, which is why variable-centered research keeps returning equivocal results. Power is relational and constellational, not additive. Taken together, these moves suggest that alternatives to our present governance arrangements are plural by construction. The productive question is not which system wins, but which combinations of institutions, rights, and commitments are viable, and for whom.</p>
         <h3>Short Bio</h3>
@@ -524,15 +536,18 @@ details[open] .arrow {
   margin-top: 0;
 }
 
-.seminar-video {
+.seminar-video,
+.seminar-resource {
   margin: 10px 0 24px;
 }
 
-.seminar-video h3 {
+.seminar-video h3,
+.seminar-resource h3 {
   margin-bottom: 10px;
 }
 
-.seminar-video-link {
+.seminar-video-link,
+.seminar-resource-link {
   display: inline-flex;
   align-items: center;
   gap: 10px;
@@ -548,15 +563,24 @@ details[open] .arrow {
 }
 
 .seminar-video-link:hover,
-.seminar-video-link:focus {
+.seminar-video-link:focus,
+.seminar-resource-link:hover,
+.seminar-resource-link:focus {
   color: #0f476e;
   background: #e1f1fa;
   text-decoration: underline;
 }
 
-.seminar-video-icon {
+.seminar-video-icon,
+.seminar-resource-icon {
   flex-shrink: 0;
   font-size: 14px;
+}
+
+.seminar-resource-icon {
+  font-size: 12px;
+  font-weight: 700;
+  letter-spacing: 0.04em;
 }
 
 .seminar-divider {
@@ -573,7 +597,8 @@ details[open] .arrow {
 
 /* 响应式 */
 @media (max-width: 768px) {
-  .seminar-video-link {
+  .seminar-video-link,
+  .seminar-resource-link {
     width: 100%;
   }
 
