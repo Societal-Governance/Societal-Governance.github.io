@@ -332,7 +332,7 @@ In 2026, we launched a monthly online seminar series on societal governance to s
         <h3>Background Readings</h3>
         <ul style="list-style: none; margin: 0; padding: 0;">
           <li style="margin-bottom: 8px;">
-            <a href="https://doi.org/10.1177/0001839217704811" target="_blank" rel="noopener noreferrer">Bodrožić, Z., and Adler, P. S. 2018. “The Evolution of Management Models: A Neo-Schumpeterian Theory.” <em>Administrative Science Quarterly</em>, 63(1): 85–129.</a>
+            <a href="https://faculty.marshall.usc.edu/Paul-Adler/research/models.pdf" target="_blank" rel="noopener noreferrer">Bodrožić, Z., and Adler, P. S. 2018. “The Evolution of Management Models: A Neo-Schumpeterian Theory.” <em>Administrative Science Quarterly</em>, 63(1): 85–129.</a>
           </li>
           <li style="margin-bottom: 8px;">
             <a href="https://doi.org/10.1287/orsc.2021.1558" target="_blank" rel="noopener noreferrer">Bodrožić, Z., and Adler, P. S. 2022. “Alternative Futures for the Digital Transformation: A Macro-Level Schumpeterian Perspective.” <em>Organization Science</em>, 33(1): 105–125.</a>
@@ -341,7 +341,7 @@ In 2026, we launched a monthly online seminar series on societal governance to s
             <a href="https://doi.org/10.1111/joms.13192" target="_blank" rel="noopener noreferrer">Bodrožić, Z., and Adler, P. 2025. “System Change, Not Climate Change: Charting Alternative Responses to the Climate Crisis through International Comparative Research.” <em>Journal of Management Studies</em>.</a>
           </li>
           <li>
-            <a href="https://doi.org/10.5465/amp.2023.0378" target="_blank" rel="noopener noreferrer">Bodrožić, Z., Hartmann, R. K., and Krabbe, A. D. 2025. “The Ascendance and Decline of Entrepreneurialism: A Neo-Schumpeterian Perspective.” <em>Academy of Management Perspectives</em>.</a>
+            <a href="https://research.cbs.dk/en/publications/the-ascendance-and-decline-of-entrepreneurialism-a-neo-schumpeter/" target="_blank" rel="noopener noreferrer">Bodrožić, Z., Hartmann, R. K., and Krabbe, A. D. 2025. “The Ascendance and Decline of Entrepreneurialism: A Neo-Schumpeterian Perspective.” <em>Academy of Management Perspectives</em>.</a>
           </li>
         </ul>
       </div>
