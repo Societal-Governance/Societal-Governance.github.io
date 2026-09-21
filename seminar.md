@@ -222,7 +222,7 @@ In 2026, we launched a monthly online seminar series on societal governance to s
 </div>
 
 <div class="seminar-card">
-  <details id="seminar-4" open>
+  <details id="seminar-4">
   <summary class="seminar-summary">
     <span class="seminar-left">
       <span class="seminar-series">Seminar Series #4</span>
@@ -289,34 +289,63 @@ In 2026, we launched a monthly online seminar series on societal governance to s
 </div>
 
 <div class="seminar-card">
-  <details id="seminar-5">
+  <details id="seminar-5" open>
   <summary class="seminar-summary">
     <span class="seminar-left">
       <span class="seminar-series">Seminar Series #5</span>
-      <span class="seminar-title"></span>
+      <span class="seminar-title">Societal Governance in the Face of Polycrisis: Quo Vadis Management and Organization Research?</span>
     </span>
     <span class="seminar-right">
-      <span class="seminar-meta">Sigrid Quack, Oct. 2nd 2026</span>
+      <span class="seminar-meta">Zlatko Bodrožić &amp; Paul S. Adler, Oct. 2nd 2026</span>
       <span class="arrow">▶</span>
     </span>
   </summary>
     <div class="seminar-content">
       <div class="seminar-top">
         <div class="seminar-text">
-          <p><strong>Speaker:</strong> 
-            Sigrid Quack<!--<a href="https://www.sppm.tsinghua.edu.cn/english/info/1067/1962.htm"></a>-->
+          <p><strong>Speakers &amp; Affiliations:</strong><br>
+            Zlatko Bodrožić, University of Liverpool<br>
+            Paul S. Adler, University of Southern California
           </p>
-          <p><strong>Affiliation: University Duisburg-Essen</strong> </p>
-          <p><strong>Date & Time:</strong></p>
+          <p><strong>Date &amp; Time:</strong><br>
+            October 2nd, 2026, 8:00am-9:00am, ET<br>
+            October 2nd, 2026, 1:00pm-2:00pm, UK<br>
+            October 2nd, 2026, 8:00pm-9:00pm, China
+          </p>
         </div>
-        <div class="seminar-photo">
-          <!--<img src="assets/images/Xufeng.png" alt="Xufeng Zhu">-->
+        <div class="seminar-photos">
+          <div class="seminar-photo">
+            <img src="assets/images/zlatko.jpg" alt="Zlatko Bodrožić">
+          </div>
+          <div class="seminar-photo">
+            <img src="assets/images/Paul.jpg" alt="Paul S. Adler">
+          </div>
         </div>
       </div>
       <hr class="seminar-divider">
       <div class="seminar-abstract">
         <h3>Abstract</h3>
-        <p></p>
+        <p>We live in a time of polycrisis. Ecological and social crises are compounded by political and geopolitical instability and widespread unease about how current decision makers will handle AI governance. Despite the existential threats posed by these multiple, interconnected crises, responses by countries have so far proven largely ineffective in altering prevailing trajectories. Likewise, our field of management and organization studies has struggled to reorient our scholarship to match the urgency and enormity of these challenges. Much of the research in our leading journals continues to rely on frameworks that predate the polycrisis, even as the conditions that made these frameworks plausible have eroded. We suggest alternatives that take the polycrisis as their starting point.</p>
+        <h3>Short Bios</h3>
+        <h4>Zlatko Bodrožić</h4>
+        <p>Zlatko Bodrožić is Professor of Digital Enterprise at the University of Liverpool. He received his PhD from the University of Helsinki, was previously Associate Professor in Technology, Organisation and Sustainability at the University of Leeds, and has also taught at the Universities of Belgrade, Bonn, Hamburg, and Hanover. His research examines the interaction of technologies, management models, organizational paradigms, and public policy regimes. His work has been published in leading journals including <em>Administrative Science Quarterly</em>, <em>Organization Science</em>, <em>Academy of Management Perspectives</em>, and <em>Journal of Management Studies</em>. His current research focuses on the evolution of societal governance systems in relation to digital transformation, climate change, and healthcare. At EGOS, he previously served as co-coordinator of the Standing Working Group “Organization Studies in the Anthropocene: System Change, Not Climate Change” (2021–2026).</p>
+        <h4>Paul S. Adler</h4>
+        <p>Paul S. Adler is the Harold Quinton Chair Emeritus in Business Policy and Professor Emeritus of Management and Organization at the Marshall School of Business, University of Southern California. His research and teaching focus on organization theory and comparative political economy. He has published widely in academic journals and has edited or co-edited several volumes, including <em>The Firm as a Collaborative Community: Reconstructing Trust in the Knowledge Economy</em> (2006), <em>The Oxford Handbook of Sociology and Organization Studies: Classical Foundations</em> (2009), and <em>The Oxford Handbook of Sociology, Social Theory and Organization Studies: Contemporary Currents</em> (2015). He co-authored <em>Healing Together: The Labor-Management Partnership at Kaiser Permanente</em> (2009), and most recently published <em>The 99% Economy: How Democratic Socialism Can Overcome the Crises of Capitalism</em> (2019).</p>
+        <h3>Background Readings</h3>
+        <ul style="list-style: none; margin: 0; padding: 0;">
+          <li style="margin-bottom: 8px;">
+            <a href="https://doi.org/10.1177/0001839217704811" target="_blank" rel="noopener noreferrer">Bodrožić, Z., and Adler, P. S. 2018. “The Evolution of Management Models: A Neo-Schumpeterian Theory.” <em>Administrative Science Quarterly</em>, 63(1): 85–129.</a>
+          </li>
+          <li style="margin-bottom: 8px;">
+            <a href="https://doi.org/10.1287/orsc.2021.1558" target="_blank" rel="noopener noreferrer">Bodrožić, Z., and Adler, P. S. 2022. “Alternative Futures for the Digital Transformation: A Macro-Level Schumpeterian Perspective.” <em>Organization Science</em>, 33(1): 105–125.</a>
+          </li>
+          <li style="margin-bottom: 8px;">
+            <a href="https://doi.org/10.1111/joms.13192" target="_blank" rel="noopener noreferrer">Bodrožić, Z., and Adler, P. 2025. “System Change, Not Climate Change: Charting Alternative Responses to the Climate Crisis through International Comparative Research.” <em>Journal of Management Studies</em>.</a>
+          </li>
+          <li>
+            <a href="https://doi.org/10.5465/amp.2023.0378" target="_blank" rel="noopener noreferrer">Bodrožić, Z., Hartmann, R. K., and Krabbe, A. D. 2025. “The Ascendance and Decline of Entrepreneurialism: A Neo-Schumpeterian Perspective.” <em>Academy of Management Perspectives</em>.</a>
+          </li>
+        </ul>
       </div>
     </div>
   </details>
@@ -500,6 +529,15 @@ details[open] .arrow {
   color: #000;
 }
 
+.seminar-photos {
+  display: flex;
+  flex-shrink: 0;
+  flex-wrap: wrap;
+  justify-content: flex-end;
+  gap: 12px;
+  max-width: 332px;
+}
+
 .seminar-photo {
   width: 160px;
   flex-shrink: 0;
@@ -603,16 +641,26 @@ details[open] .arrow {
   }
 
   .seminar-summary {
-    align-items: flex-start;
+    flex-direction: column;
+    align-items: stretch;
+    gap: 12px;
   }
 
   .seminar-right {
+    width: 100%;
+    justify-content: space-between;
     white-space: normal;
-    text-align: right;
+    text-align: left;
   }
 
   .seminar-top {
     flex-direction: column-reverse;
+  }
+
+  .seminar-photos {
+    width: 100%;
+    max-width: none;
+    justify-content: flex-start;
   }
 
   .seminar-photo,
