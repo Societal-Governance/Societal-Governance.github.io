@@ -366,7 +366,7 @@ In 2026, we launched a monthly online seminar series on societal governance to s
         <div class="seminar-text">
           <p><strong>Speakers &amp; Affiliations:</strong><br>
             <a href="https://www.leuphana.de/en/institutes/imo/persons/stefanie-habersang.html" target="_blank" rel="noopener noreferrer">Stefanie Habersang</a>, Leuphana University Lüneburg<br>
-            <a href="https://profiles.ucl.ac.uk/108005-sukanya-roy" target="_blank" rel="noopener noreferrer">Sukanya Roy</a>, UCL School of Management (PhD, University of Michigan)<br>
+            <a href="https://profiles.ucl.ac.uk/108005-sukanya-roy" target="_blank" rel="noopener noreferrer">Sukanya Roy</a>, University College London<br>
             <a href="https://scholars.cityu.edu.hk/en/persons/ninliu/" target="_blank" rel="noopener noreferrer">Ning Liu</a>, City University of Hong Kong
           </p>
           <p><strong>Date &amp; Time:</strong><br>
