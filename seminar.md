@@ -365,9 +365,9 @@ In 2026, we launched a monthly online seminar series on societal governance to s
       <div class="seminar-top">
         <div class="seminar-text">
           <p><strong>Speakers &amp; Affiliations:</strong><br>
-            <a href="https://msi.cs.ucl.ac.uk/user/2345" target="_blank" rel="noopener noreferrer">Sukanya Roy</a>, UCL School of Management (PhD, University of Michigan)<br>
+            <a href="https://profiles.ucl.ac.uk/108005-sukanya-roy" target="_blank" rel="noopener noreferrer">Sukanya Roy</a>, UCL School of Management (PhD, University of Michigan)<br>
             <a href="https://scholars.cityu.edu.hk/en/persons/ninliu/" target="_blank" rel="noopener noreferrer">Nicole Ning Liu</a>, City University of Hong Kong<br>
-            <a href="https://www.leuphana.de/en/research-centers/rce/team.html" target="_blank" rel="noopener noreferrer">Stefanie Habersang</a>, Leuphana University Lüneburg
+            <a href="https://www.leuphana.de/en/institutes/imo/persons/stefanie-habersang.html" target="_blank" rel="noopener noreferrer">Stefanie Habersang</a>, Leuphana University Lüneburg
           </p>
           <p><strong>Date &amp; Time:</strong><br>
             November 6th, 2026, 7:00am-8:00am, ET<br>
