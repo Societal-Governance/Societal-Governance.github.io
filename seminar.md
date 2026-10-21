@@ -372,7 +372,7 @@ In 2026, we launched a monthly online seminar series on societal governance to s
           <p><strong>Date &amp; Time:</strong><br>
             November 6th, 2026, 7:00am-8:00am, ET<br>
             November 6th, 2026, 12:00pm-1:00pm, UK<br>
-            November 6th, 2026, 8:00pm-9:00pm, Hong Kong
+            November 6th, 2026, 8:00pm-9:00pm, China
           </p>
         </div>
         <div class="seminar-photos">
