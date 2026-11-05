@@ -401,6 +401,7 @@ In 2026, we launched a monthly online seminar series on societal governance to s
   </details>
 </div>
 
+<!--
 <div class="seminar-card">
   <details id="seminar-7">
   <summary class="seminar-summary">
@@ -416,7 +417,7 @@ In 2026, we launched a monthly online seminar series on societal governance to s
     <div class="seminar-content">
       <div class="seminar-top">
         <div class="seminar-text">
-          <p><strong>Speaker:</strong></p>
+          <p><strong>Speaker: John Bryson</strong></p>
           <p><strong>Affiliation: University of Minnesota</strong></p>
           <p><strong>Date & Time:</strong></p>
         </div>
@@ -426,6 +427,109 @@ In 2026, we launched a monthly online seminar series on societal governance to s
       <div class="seminar-abstract">
         <h3>Abstract</h3>
         <p></p>
+      </div>
+    </div>
+  </details>
+</div>
+-->
+
+<div class="seminar-card">
+  <details id="seminar-10">
+  <summary class="seminar-summary">
+    <span class="seminar-left">
+      <span class="seminar-series">Seminar Series #10</span>
+      <span class="seminar-title">Understanding Climate Backlash: A Political Science Perspective</span>
+    </span>
+    <span class="seminar-right">
+      <span class="seminar-meta">Aseem Prakash, Mar. 5th 2027</span>
+      <span class="arrow">▶</span>
+    </span>
+  </summary>
+    <div class="seminar-content">
+      <div class="seminar-top">
+        <div class="seminar-text">
+          <p><strong>Speaker:</strong> Aseem Prakash</p>
+          <p><strong>Affiliation:</strong> University of Washington</p>
+          <p><strong>Date &amp; Time:</strong><br>
+            March 5th, 2027, 8:00am-9:00am, ET<br>
+            March 5th, 2027, 1:00pm-2:00pm, UK<br>
+            March 5th, 2027, 9:00pm-10:00pm, China
+          </p>
+        </div>
+        <div class="seminar-photo"></div>
+      </div>
+    </div>
+  </details>
+</div>
+
+<div class="seminar-card">
+  <details id="seminar-12">
+  <summary class="seminar-summary">
+    <span class="seminar-left">
+      <span class="seminar-series">Seminar Series #12</span>
+      <span class="seminar-title">Polytunity: Moving Beyond the Polycrisis of Western Decline</span>
+    </span>
+    <span class="seminar-right">
+      <span class="seminar-meta">Yuen Yuen Ang, May 7th 2027</span>
+      <span class="arrow">▶</span>
+    </span>
+  </summary>
+    <div class="seminar-content">
+      <div class="seminar-top">
+        <div class="seminar-text">
+          <p><strong>Speaker:</strong> Yuen Yuen Ang</p>
+          <p><strong>Affiliation:</strong> Johns Hopkins University</p>
+          <p><strong>Date &amp; Time:</strong><br>
+            May 7th, 2027, 8:00am-9:00am, ET<br>
+            May 7th, 2027, 1:00pm-2:00pm, UK<br>
+            May 7th, 2027, 8:00pm-9:00pm, China
+          </p>
+        </div>
+        <div class="seminar-photo"></div>
+      </div>
+      <hr class="seminar-divider">
+      <div class="seminar-abstract">
+        <h3>Background Readings</h3>
+        <ul style="list-style: none; margin: 0; padding: 0;">
+          <li style="margin-bottom: 8px;">
+            <a href="https://polytunity.substack.com/" target="_blank" rel="noopener noreferrer">The Polytunity Substack - an interactive hub</a>
+          </li>
+          <li style="margin-bottom: 8px;">
+            <a href="https://www.youtube.com/watch?v=AnBw9jxWtcI" target="_blank" rel="noopener noreferrer">Interview at the World Economic Forum, “From Polycrisis to Polytunity: The Future of Geopolitics”</a>
+          </li>
+          <li>
+            <a href="https://www.theideasletter.org/essay/polytunity/" target="_blank" rel="noopener noreferrer">Essay in The Ideas Letter, “Polytunity: The Future of Development”</a>
+          </li>
+        </ul>
+      </div>
+    </div>
+  </details>
+</div>
+
+<div class="seminar-card">
+  <details id="seminar-14">
+  <summary class="seminar-summary">
+    <span class="seminar-left">
+      <span class="seminar-series">Seminar Series #14</span>
+      <span class="seminar-title"></span>
+    </span>
+    <span class="seminar-right">
+      <span class="seminar-meta">Branko Milanović, July 2nd 2027</span>
+      <span class="arrow">▶</span>
+    </span>
+  </summary>
+    <div class="seminar-content">
+      <div class="seminar-top">
+        <div class="seminar-text">
+          <p><strong>Speaker:</strong> Branko Milanović</p>
+          <p><strong>Affiliation:</strong> London School of Economics</p>
+          <p><strong>Date &amp; Time:</strong><br>
+            July 2nd, 2027, 8:00am-9:00am, ET<br>
+            July 2nd, 2027, 1:00pm-2:00pm, UK<br>
+            July 2nd, 2027, 8:00pm-9:00pm, China
+          </p>
+        </div>
+        <div class="seminar-photo"></div>
       </div>
     </div>
   </details>
