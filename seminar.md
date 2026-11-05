@@ -370,9 +370,9 @@ In 2026, we launched a monthly online seminar series on societal governance to s
             <a href="https://scholars.cityu.edu.hk/en/persons/ninliu/" target="_blank" rel="noopener noreferrer">Ning Liu</a>, City University of Hong Kong
           </p>
           <p><strong>Date &amp; Time:</strong><br>
-            November 6th, 2026, 7:00am-8:00am, ET<br>
-            November 6th, 2026, 12:00pm-1:00pm, UK<br>
-            November 6th, 2026, 8:00pm-9:00pm, China
+            November 6th, 2026, 8:00am-9:00am, ET<br>
+            November 6th, 2026, 1:00pm-2:00pm, UK<br>
+            November 6th, 2026, 9:00pm-10:00pm, China
           </p>
         </div>
         <div class="seminar-photos">
@@ -419,7 +419,11 @@ In 2026, we launched a monthly online seminar series on societal governance to s
         <div class="seminar-text">
           <p><strong>Speaker: John Bryson</strong></p>
           <p><strong>Affiliation: University of Minnesota</strong></p>
-          <p><strong>Date & Time:</strong></p>
+          <p><strong>Date &amp; Time:</strong><br>
+            December 4th, 2026, 8:00am-9:00am, ET<br>
+            December 4th, 2026, 1:00pm-2:00pm, UK<br>
+            December 4th, 2026, 9:00pm-10:00pm, China
+          </p>
         </div>
         <div class="seminar-photo"></div>
       </div>
@@ -451,9 +455,9 @@ In 2026, we launched a monthly online seminar series on societal governance to s
           <p><strong>Speaker:</strong> Aseem Prakash</p>
           <p><strong>Affiliation:</strong> University of Washington</p>
           <p><strong>Date &amp; Time:</strong><br>
-            March 5th, 2027, 7:00am-8:00am, ET<br>
-            March 5th, 2027, 12:00pm-1:00pm, UK<br>
-            March 5th, 2027, 8:00pm-9:00pm, China
+            March 5th, 2027, 8:00am-9:00am, ET<br>
+            March 5th, 2027, 1:00pm-2:00pm, UK<br>
+            March 5th, 2027, 9:00pm-10:00pm, China
           </p>
         </div>
         <div class="seminar-photo"></div>
