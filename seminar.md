@@ -451,9 +451,9 @@ In 2026, we launched a monthly online seminar series on societal governance to s
           <p><strong>Speaker:</strong> Aseem Prakash</p>
           <p><strong>Affiliation:</strong> University of Washington</p>
           <p><strong>Date &amp; Time:</strong><br>
-            March 5th, 2027, 8:00am-9:00am, ET<br>
-            March 5th, 2027, 1:00pm-2:00pm, UK<br>
-            March 5th, 2027, 9:00pm-10:00pm, China
+            March 5th, 2027, 7:00am-8:00am, ET<br>
+            March 5th, 2027, 12:00pm-1:00pm, UK<br>
+            March 5th, 2027, 8:00pm-9:00pm, China
           </p>
         </div>
         <div class="seminar-photo"></div>
