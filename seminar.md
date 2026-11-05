@@ -492,6 +492,7 @@ In 2026, we launched a monthly online seminar series on societal governance to s
         <div class="seminar-photo"></div>
       </div>
       <hr class="seminar-divider">
+      <!--
       <div class="seminar-abstract">
         <h3>Background Readings</h3>
         <ul style="list-style: none; margin: 0; padding: 0;">
@@ -506,6 +507,7 @@ In 2026, we launched a monthly online seminar series on societal governance to s
           </li>
         </ul>
       </div>
+      -->
     </div>
   </details>
 </div>
