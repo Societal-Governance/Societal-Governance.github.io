@@ -544,10 +544,10 @@ In 2026, we launched a monthly online seminar series on societal governance to s
   <summary class="seminar-summary">
     <span class="seminar-left">
       <span class="seminar-series">Seminar Series #15</span>
-      <span class="seminar-title">TBC</span>
+      <span class="seminar-title"></span>
     </span>
     <span class="seminar-right">
-      <span class="seminar-meta">Sept. 3rd 2027</span>
+      <span class="seminar-meta">TBC</span>
       <span class="arrow">▶</span>
     </span>
   </summary>
