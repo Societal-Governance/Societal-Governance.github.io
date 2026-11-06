@@ -128,7 +128,7 @@ In 2026, we launched a monthly online seminar series on societal governance to s
       <div class="seminar-top">
         <div class="seminar-text">
           <p><strong>Speaker:</strong> 
-            David Soskice
+            <a href="https://www.lse.ac.uk/people/david-soskice" target="_blank" rel="noopener noreferrer">David Soskice</a>
           </p>
           <p><strong>Date & Time:</strong><br>
             June 5th, 2026, 8:00am-9:00am, ET<br>
@@ -417,8 +417,8 @@ In 2026, we launched a monthly online seminar series on societal governance to s
     <div class="seminar-content">
       <div class="seminar-top">
         <div class="seminar-text">
-          <p><strong>Speaker: John Bryson</strong></p>
-          <p><strong>Affiliation: University of Minnesota</strong></p>
+          <p><strong>Speaker:</strong> <a href="https://www.hhh.umn.edu/directory/john-bryson" target="_blank" rel="noopener noreferrer">John Bryson</a></p>
+          <p><strong>Affiliation:</strong> University of Minnesota</p>
           <p><strong>Date &amp; Time:</strong><br>
             December 4th, 2026, 8:00am-9:00am, ET<br>
             December 4th, 2026, 1:00pm-2:00pm, UK<br>
@@ -452,7 +452,7 @@ In 2026, we launched a monthly online seminar series on societal governance to s
     <div class="seminar-content">
       <div class="seminar-top">
         <div class="seminar-text">
-          <p><strong>Speaker:</strong> Aseem Prakash</p>
+          <p><strong>Speaker:</strong> <a href="https://www.polisci.washington.edu/people/aseem-prakash" target="_blank" rel="noopener noreferrer">Aseem Prakash</a></p>
           <p><strong>Affiliation:</strong> University of Washington</p>
           <p><strong>Date &amp; Time:</strong><br>
             March 5th, 2027, 8:00am-9:00am, ET<br>
@@ -481,7 +481,7 @@ In 2026, we launched a monthly online seminar series on societal governance to s
     <div class="seminar-content">
       <div class="seminar-top">
         <div class="seminar-text">
-          <p><strong>Speaker:</strong> Yuen Yuen Ang</p>
+          <p><strong>Speaker:</strong> <a href="https://snfagora.jhu.edu/directory/yuen-yuen-ang/" target="_blank" rel="noopener noreferrer">Yuen Yuen Ang</a></p>
           <p><strong>Affiliation:</strong> Johns Hopkins University</p>
           <p><strong>Date &amp; Time:</strong><br>
             May 7th, 2027, 8:00am-9:00am, ET<br>
@@ -525,7 +525,7 @@ In 2026, we launched a monthly online seminar series on societal governance to s
     <div class="seminar-content">
       <div class="seminar-top">
         <div class="seminar-text">
-          <p><strong>Speaker:</strong> Branko Milanović</p>
+          <p><strong>Speaker:</strong> <a href="https://www.lse.ac.uk/people/branko-milanovic" target="_blank" rel="noopener noreferrer">Branko Milanović</a></p>
           <p><strong>Affiliation:</strong> London School of Economics</p>
           <p><strong>Date &amp; Time:</strong><br>
             July 2nd, 2027, 8:00am-9:00am, ET<br>
