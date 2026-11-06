@@ -492,7 +492,6 @@ In 2026, we launched a monthly online seminar series on societal governance to s
         <div class="seminar-photo"></div>
       </div>
       <hr class="seminar-divider">
-      <!--
       <div class="seminar-abstract">
         <h3>Background Readings</h3>
         <ul style="list-style: none; margin: 0; padding: 0;">
@@ -507,7 +506,6 @@ In 2026, we launched a monthly online seminar series on societal governance to s
           </li>
         </ul>
       </div>
-      -->
     </div>
   </details>
 </div>
@@ -536,6 +534,46 @@ In 2026, we launched a monthly online seminar series on societal governance to s
           </p>
         </div>
         <div class="seminar-photo"></div>
+      </div>
+    </div>
+  </details>
+</div>
+
+<div class="seminar-card">
+  <details id="seminar-15">
+  <summary class="seminar-summary">
+    <span class="seminar-left">
+      <span class="seminar-series">Seminar Series #15</span>
+      <span class="seminar-title">TBC</span>
+    </span>
+    <span class="seminar-right">
+      <span class="seminar-meta">Bob Jessop, Sept. 3rd 2027</span>
+      <span class="arrow">▶</span>
+    </span>
+  </summary>
+    <div class="seminar-content">
+      <div class="seminar-top">
+        <div class="seminar-text">
+          <p><strong>Speaker:</strong>
+            <a href="https://www.lancaster.ac.uk/humanities-arts-and-social-sciences/people/bob-jessop" target="_blank" rel="noopener noreferrer">Bob Jessop</a>
+          </p>
+          <p><strong>Affiliation:</strong> Lancaster University</p>
+          <p><strong>Date &amp; Time:</strong><br>
+            September 3rd, 2027, 8:00am-9:00am, ET<br>
+            September 3rd, 2027, 1:00pm-2:00pm, UK<br>
+            September 3rd, 2027, 8:00pm-9:00pm, China
+          </p>
+        </div>
+        <div class="seminar-photo"></div>
+      </div>
+      <hr class="seminar-divider">
+      <div class="seminar-abstract">
+        <h3>Background Reading</h3>
+        <ul style="list-style: none; margin: 0; padding: 0;">
+          <li>
+            <a href="https://doi.org/10.4324/9781315161587" target="_blank" rel="noopener noreferrer">Jessop, B., and Knio, K. (eds.). 2019. <em>The Pedagogy of Economic, Political and Social Crises: Dynamics, Construals and Lessons</em>. Routledge.</a>
+          </li>
+        </ul>
       </div>
     </div>
   </details>
