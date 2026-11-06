@@ -547,7 +547,7 @@ In 2026, we launched a monthly online seminar series on societal governance to s
       <span class="seminar-title">TBC</span>
     </span>
     <span class="seminar-right">
-      <span class="seminar-meta">Bob Jessop, Sept. 3rd 2027</span>
+      <span class="seminar-meta">Sept. 3rd 2027</span>
       <span class="arrow">▶</span>
     </span>
   </summary>
@@ -555,9 +555,11 @@ In 2026, we launched a monthly online seminar series on societal governance to s
       <div class="seminar-top">
         <div class="seminar-text">
           <p><strong>Speaker:</strong>
+            <!--
             <a href="https://www.lancaster.ac.uk/humanities-arts-and-social-sciences/people/bob-jessop" target="_blank" rel="noopener noreferrer">Bob Jessop</a>
+            -->
           </p>
-          <p><strong>Affiliation:</strong> Lancaster University</p>
+          <p><strong>Affiliation:</strong> </p>
           <p><strong>Date &amp; Time:</strong><br>
             September 3rd, 2027, 8:00am-9:00am, ET<br>
             September 3rd, 2027, 1:00pm-2:00pm, UK<br>
